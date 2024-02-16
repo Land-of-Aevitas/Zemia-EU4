@@ -1,0 +1,8 @@
+# Pwyni
+government = monarchy
+government_rank = 2
+technology_group = western
+religion = animism
+capital = 106
+add_government_reform = feudalism_reform
+primary_culture = english

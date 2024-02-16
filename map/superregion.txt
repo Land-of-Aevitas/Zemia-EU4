@@ -1,0 +1,55 @@
+sylvan_isles_superregion = {
+	lost_forest_region
+	greater_fei_region
+	east_bank_region
+	batsuri_region
+}
+s2_superregion = {
+	restrict_charter # Harder to get TC here.
+
+	r5_region
+}
+far_zemia_superregion = {
+	restrict_charter # Harder to get TC here.
+
+	puestyn_region
+	east_orclands_region
+	west_orclands_region
+}
+highlands_superregion = {
+	cradle_region
+	krengo_range_region
+}
+western_zemia_superregion = {
+	grasslands_region
+	plaksen_region
+	auralight_region
+}
+eastern_zemia_superregion = {
+	midlands_region
+	forlorn_lands_region
+	swamplands_region
+}
+s7_superregion = {
+	truga_jungle_region
+}
+deltan_sphere_superregion = {
+	restrict_charter # Harder to get TC here.
+
+	island_of_our_souls_region
+}
+zemian_ocean_superregion = {
+	restrict_charter # Harder to get TC here.
+
+	west_coast_region
+	open_ocean_region
+	pustyn_coast_region
+}
+central_lakes_superregion = {
+	seven_lakes_region
+}
+deltanese_sea_superregion = {
+	restrict_charter # Harder to get TC here.
+
+	soul_coast_region
+}

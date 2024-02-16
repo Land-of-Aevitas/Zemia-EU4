@@ -1,0 +1,168 @@
+lost_forest_region = {
+	areas = {
+		a1_area
+		a2_area
+		a3_area
+		a4_area
+		a5_area
+		a6_area
+	}
+}
+greater_fei_region = {
+	areas = {
+		a7_area
+		a8_area
+		a9_area
+		a10_area
+		a14_area
+	}
+}
+east_bank_region = {
+	areas = {
+		a11_area
+		a12_area
+		a13_area
+	}
+}
+batsuri_region = {
+	areas = {
+		a15_area
+		a16_area
+		a17_area
+		a18_area
+	}
+}
+r5_region = {
+	areas = {
+		a54_area
+		a55_area
+		a56_area
+	}
+}
+puestyn_region = {
+	areas = {
+		a52_area
+		a53_area
+		a57_area
+	}
+}
+east_orclands_region = {
+	areas = {
+		a58_area
+		a67_area
+		a68_area
+	}
+}
+west_orclands_region = {
+	areas = {
+		lost_city_2_area
+		a59_area
+		a60_area
+	}
+}
+cradle_region = {
+	areas = {
+		a48_area
+		a49_area
+		a50_area
+		a61_area
+		a63_area
+	}
+}
+krengo_range_region = {
+	areas = {
+		a62_area
+		a64_area
+		a65_area
+		a66_area
+	}
+}
+grasslands_region = {
+	areas = {
+		a21_area
+		a22_area
+		a30_area
+		a31_area
+		a32_area
+		a47_area
+	}
+}
+midlands_region = {
+	areas = {
+		a33_area
+		a34_area
+		a35_area
+		a39_area
+		kryawdenyi_hills_area
+	}
+}
+forlorn_lands_region = {
+	areas = {
+		a41_area
+		lost_city_1_area
+		a43_area
+	}
+}
+truga_jungle_region = {
+	areas = {
+		western_truga_area
+	}
+}
+plaksen_region = {
+	areas = {
+		a23_area
+		a24_area
+		a28_area
+		a29_area
+	}
+}
+auralight_region = {
+	areas = {
+		a25_area
+		a26_area
+		a27_area
+		a36_area
+	}
+}
+swamplands_region = {
+	areas = {
+		a37_area
+		a38_area
+		a45_area
+		a46_area
+	}
+}
+island_of_our_souls_region = {
+	areas = {
+		a19_area
+		a20_area
+	}
+}
+west_coast_region = {
+	areas = {
+		aw1_area
+		aw2_area
+	}
+}
+open_ocean_region = {
+	areas = {
+		aw3_area
+		aw4_area
+		aw5_area
+	}
+}
+pustyn_coast_region = {
+	areas = {
+		aw6_area
+	}
+}
+seven_lakes_region = {
+	areas = {
+		seven_lakes_area_area
+	}
+}
+soul_coast_region = {
+	areas = {
+		lost_coast_area
+	}
+}

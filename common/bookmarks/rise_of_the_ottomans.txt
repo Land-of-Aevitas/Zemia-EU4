@@ -1,0 +1,12 @@
+bookmark = 
+{
+	name = "zemia_bookmark"
+	desc = "zemia_bookmark_desc"
+	date = 1444.11.11
+	
+	center = 164
+	default = yes
+	
+    country = Z06
+	country = Z12
+}

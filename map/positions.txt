@@ -1,0 +1,8130 @@
+﻿# P1
+1 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P2
+2 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P3
+3 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P4
+4 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P5
+5 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P6
+6 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P7
+7 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P8
+8 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P9
+9 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P10
+10 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P11
+11 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P12
+12 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P13
+13 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P14
+14 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P15
+15 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P16
+16 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P17
+17 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P18
+18 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P19
+19 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P20
+20 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P21
+21 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P22
+22 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P23
+23 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P24
+24 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P25
+25 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P26
+26 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P27
+27 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P28
+28 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P29
+29 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P30
+30 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P31
+31 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P32
+32 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# Fei
+33 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P34
+34 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P35
+35 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P36
+36 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P37
+37 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P38
+38 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P39
+39 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P40
+40 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P41
+41 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P42
+42 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P43
+43 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P44
+44 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P45
+45 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P46
+46 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P47
+47 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P48
+48 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P49
+49 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P50
+50 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P51
+51 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P52
+52 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P53
+53 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P54
+54 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P55
+55 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P56
+56 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P57
+57 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P58
+58 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P59
+59 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P60
+60 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P61
+61 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P62
+62 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P63
+63 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P64
+64 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P65
+65 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P66
+66 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P67
+67 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P68
+68 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P69
+69 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P70
+70 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P71
+71 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P72
+72 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P73
+73 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P74
+74 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P75
+75 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P76
+76 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P77
+77 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P78
+78 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P79
+79 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# Silverkeep
+80 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P81
+81 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P82
+82 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P83
+83 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P84
+84 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P85
+85 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P86
+86 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P87
+87 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P88
+88 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P89
+89 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P90
+90 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P91
+91 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P92
+92 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P93
+93 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P94
+94 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P95
+95 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P96
+96 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# Firresse
+97 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P98
+98 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P99
+99 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P100
+100 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P101
+101 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P102
+102 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P103
+103 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P104
+104 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P105
+105 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P106
+106 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P107
+107 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# Şūfmibū
+108 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P109
+109 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P110
+110 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P111
+111 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# Lunaris
+112 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P113
+113 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P114
+114 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P115
+115 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P116
+116 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P117
+117 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P118
+118 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P119
+119 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P120
+120 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P121
+121 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P122
+122 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P123
+123 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P124
+124 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P125
+125 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P126
+126 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P127
+127 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P128
+128 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P129
+129 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P130
+130 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P131
+131 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# Ctolsa
+132 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P133
+133 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P134
+134 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P135
+135 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P136
+136 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P137
+137 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P138
+138 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P139
+139 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P140
+140 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P141
+141 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P142
+142 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P143
+143 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P144
+144 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P145
+145 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P146
+146 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P147
+147 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P148
+148 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P149
+149 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P150
+150 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P151
+151 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P152
+152 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P153
+153 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P154
+154 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P155
+155 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P156
+156 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P157
+157 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P158
+158 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P159
+159 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P160
+160 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P161
+161 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P162
+162 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P163
+163 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P164
+164 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P165
+165 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P166
+166 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P167
+167 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P168
+168 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P169
+169 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P170
+170 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P171
+171 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P172
+172 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P173
+173 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P174
+174 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P175
+175 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P176
+176 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P177
+177 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P178
+178 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P179
+179 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P180
+180 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P181
+181 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P182
+182 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P183
+183 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P184
+184 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P185
+185 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P186
+186 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P187
+187 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P188
+188 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P189
+189 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P190
+190 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P191
+191 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P192
+192 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P193
+193 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P194
+194 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P195
+195 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P196
+196 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P197
+197 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P198
+198 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P199
+199 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P200
+200 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P201
+201 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P202
+202 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P203
+203 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P204
+204 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P205
+205 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P206
+206 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P207
+207 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P208
+208 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P209
+209 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P210
+210 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P211
+211 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P212
+212 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P213
+213 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P214
+214 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P215
+215 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P216
+216 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P217
+217 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P218
+218 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P219
+219 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P220
+220 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P221
+221 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P222
+222 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P223
+223 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P224
+224 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P225
+225 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P226
+226 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P227
+227 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P228
+228 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P229
+229 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P230
+230 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P231
+231 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P232
+232 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P233
+233 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P234
+234 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P235
+235 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P236
+236 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P237
+237 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P238
+238 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P239
+239 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P240
+240 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P241
+241 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# South-West Lake
+242 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# Central Lake
+243 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# South-East Lake
+244 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P245
+245 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P246
+246 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P247
+247 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P248
+248 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P249
+249 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P250
+250 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# Merchant's Cliff
+251 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P252
+252 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P253
+253 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P254
+254 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P255
+255 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P256
+256 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P257
+257 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P258
+258 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P259
+259 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P260
+260 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P261
+261 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P262
+262 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P263
+263 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P264
+264 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P265
+265 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P266
+266 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P267
+267 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P268
+268 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P269
+269 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# P270
+270 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
+# Barrier Lake
+271 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}

@@ -1,0 +1,15 @@
+# 66 - P66
+
+discovered_by = western
+owner = Z23
+controller = Z23
+add_core = Z23
+culture = english
+religion = animism
+base_tax = 2
+base_production = 1
+base_manpower = 1
+is_city = yes
+hre = no
+capital = "P66"
+trade_goods = grain

@@ -1,0 +1,138 @@
+Z01 = { # Batsuri Order
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z02 = { # Crystal Duchy
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z03 = { # Deschov
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z04 = { # East Pemer
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z05 = { # Feimori
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z06 = { # Fei
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z07 = { # Dzora
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z08 = { # Jikichi
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z09 = { # Kami No
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z10 = { # Krengo
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z11 = { # Lunaris
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z12 = { # Plaxen
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z13 = { # Pwyni
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z14 = { # Puestyn
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z15 = { # Privrmeti
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z16 = { # Sabikeshe
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z17 = { # Truga
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z18 = { # United Republic
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z19 = { # West Pemer
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z20 = { # Zabeshi
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z21 = { # Zhy Saba
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z22 = { # Midborne
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z23 = { # Deltan
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+

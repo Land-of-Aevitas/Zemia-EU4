@@ -1,0 +1,15 @@
+# 140 - P140
+
+discovered_by = western
+owner = Z20
+controller = Z20
+add_core = Z20
+culture = english
+religion = animism
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+hre = no
+capital = "P140"
+trade_goods = grain

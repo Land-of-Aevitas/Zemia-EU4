@@ -1,0 +1,15 @@
+# 225 - P225
+
+discovered_by = western
+owner = Z15
+controller = Z15
+add_core = Z15
+culture = english
+religion = animism
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+hre = no
+capital = "P225"
+trade_goods = grain

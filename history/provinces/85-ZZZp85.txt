@@ -1,0 +1,15 @@
+# 85 - P85
+
+discovered_by = western
+owner = Z12
+controller = Z12
+add_core = Z12
+culture = english
+religion = animism
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+hre = no
+capital = "P85"
+trade_goods = livestock
