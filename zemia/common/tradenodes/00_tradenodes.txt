@@ -3,17 +3,11 @@ the_isles_node = {
 	color = {50 64 168}
 	outgoing = {
 		name = "falconmar_node"
-		path = {
-			252 253 254 67 83 85 102 106
-		}
 		control = {
 		}
 	}
 	outgoing = {
 		name = "deltan_node"
-		path = {
-			61 62 255 256 263 264 251 65
-		}
 		control = {
 		}
 	}
@@ -30,17 +24,11 @@ sylvan_tribes_node = {
 	color = {12 138 73}
 	outgoing = {
 		name = "the_isles_node"
-		path = {
-			260 261
-		}
 		control = {
 		}
 	}
 	outgoing = {
 		name = "homeland_node"
-		path = {
-			260 252 250 249
-		}
 		control = {
 		}
 	}
@@ -60,9 +48,6 @@ orcfields_node = {
 	color = {102 161 43}
 	outgoing = {
 		name = "homeland_node"
-		path = {
-			230 231 220 214 216 215 203 197
-		}
 		control = {
 		}
 	}
@@ -79,9 +64,6 @@ epic_gamer_node_node = {
 	color = {252 237 162}
 	outgoing = {
 		name = "orcfields_node"
-		path = {
-			189 191 210 223
-		}
 		control = {
 		}
 	}
@@ -98,9 +80,6 @@ homeland_node = {
 	color = {166 164 164}
 	outgoing = {
 		name = "falconmar_node"
-		path = {
-			249 253 254 163 84 85 102
-		}
 		control = {
 		}
 	}
@@ -118,9 +97,6 @@ falconmar_node = {
 	color = {174 219 110}
 	outgoing = {
 		name = "shufmibu_node"
-		path = {
-			117 116 124
-		}
 		control = {
 		}
 	}
@@ -147,25 +123,16 @@ swamps_node = {
 	color = {107 75 1}
 	outgoing = {
 		name = "shufmibu_node"
-		path = {
-			139 128 114
-		}
 		control = {
 		}
 	}
 	outgoing = {
 		name = "forlorn_node"
-		path = {
-			159 146 145 135
-		}
 		control = {
 		}
 	}
 	outgoing = {
 		name = "puzhna_node"
-		path = {
-			139 127 125 113 111
-		}
 		control = {
 		}
 	}
@@ -178,6 +145,11 @@ swamps_node = {
 forlorn_node = {
 	location = 149
 	color = {83 87 85}
+	outgoing = {
+		name = "seven_lakes_node"
+		control = {
+		}
+	}
 	members = {
 		144	145	146	147	148
 		149	150	151	152	153
@@ -189,17 +161,11 @@ seven_lakes_node = {
 	color = {54 149 186}
 	outgoing = {
 		name = "falconmar_node"
-		path = {
-			243
-		}
 		control = {
 		}
 	}
 	outgoing = {
 		name = "shufmibu_node"
-		path = {
-			112 116 124
-		}
 		control = {
 		}
 	}
@@ -222,9 +188,11 @@ puzhna_node = {
 	color = {252 201 126}
 	outgoing = {
 		name = "seven_lakes_node"
-		path = {
-			111 113 114 124 123 122
+		control = {
 		}
+	}
+	outgoing = {
+		name = "shufmibu_node"
 		control = {
 		}
 	}
