@@ -1,4 +1,4 @@
-# Batsuri Order
+# Bawsuri Order
 government = monarchy
 government_rank = 2
 technology_group = western

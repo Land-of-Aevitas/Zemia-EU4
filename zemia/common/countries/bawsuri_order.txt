@@ -1,4 +1,4 @@
- # Country (latinised): Batsuri Order
+ # Country (latinised): Bawsuri Order
 graphical_culture = westerngfx
 color = {53 162 105}
 revolutionary_colors = {2 9 3}

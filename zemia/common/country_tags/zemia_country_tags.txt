@@ -1,7 +1,7 @@
 # Special countries:
 
 # Normal countries:
-Z01 = "countries/batsuri_order.txt"
+Z01 = "countries/bawsuri_order.txt"
 Z02 = "countries/crystal_duchy.txt"
 Z03 = "countries/deschov.txt"
 Z04 = "countries/east_pemer.txt"

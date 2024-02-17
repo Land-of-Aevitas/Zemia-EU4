@@ -1,4 +1,4 @@
-Z01 = { # Batsuri Order
+Z01 = { # Bawsuri Order
 	color1= {175 15  15 }
 	color2= {255 196 0  }
 	color3= {26  56  141}
