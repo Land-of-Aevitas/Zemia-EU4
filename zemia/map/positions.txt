@@ -8128,3 +8128,33 @@
 		0.000 # Wind
 	}
 }
+# World Border
+272 = {
+	position = {
+		0.000 0.000 # City
+		0.000 0.000 # Unit
+		0.000 0.000 # Name
+		0.000 0.000 # Port
+		0.000 0.000 # Trade
+		0.000 0.000 # Battle
+		0.000 0.000 # Wind
+	}
+	rotation = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+	height = {
+		0.000 # City
+		0.000 # Unit
+		0.000 # Name
+		0.000 # Port
+		0.000 # Trade
+		0.000 # Battle
+		0.000 # Wind
+	}
+}
