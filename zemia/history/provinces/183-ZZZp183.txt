@@ -1,0 +1,15 @@
+# 183 - P183
+
+discovered_by = western
+owner = Z14
+controller = Z14
+add_core = Z14
+culture = english
+religion = animism
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+hre = no
+capital = "P183"
+trade_goods = grain

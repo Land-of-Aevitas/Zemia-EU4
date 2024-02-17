@@ -1,0 +1,33 @@
+width = 2816
+height = 2048
+
+max_provinces = 4942
+sea_starts = {
+	243	244	249	250	252
+	253	254	255
+}
+only_used_for_random = {} # Unused as there is no rnw
+lakes = {
+	242	271
+}
+force_coastal = {}
+
+definitions = "definition.csv"
+provinces = "provinces.bmp"
+positions = "positions.txt"
+terrain = "terrain.bmp"
+rivers = "rivers.bmp"
+terrain_definition = "terrain.txt"
+heightmap = "heightmap.bmp"
+tree_definition = "trees.bmp"
+continent = "continent.txt"
+adjacencies = "adjacencies.csv"
+climate = "climate.txt"
+region = "region.txt"
+superregion = "superregion.txt"
+area = "area.txt"
+provincegroup = "provincegroup.txt"
+ambient_object = "ambient_object.txt"
+seasons = "seasons.txt"
+trade_winds = "trade_winds.txt"
+tree = { 3 4 7 10 } # Used for 'automatic terrain assignment'

@@ -1,0 +1,15 @@
+# 39 - P39
+
+discovered_by = western
+owner = Z06
+controller = Z06
+add_core = Z06
+culture = english
+religion = animism
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+hre = no
+capital = "P39"
+trade_goods = grain

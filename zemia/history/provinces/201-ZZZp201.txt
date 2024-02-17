@@ -1,0 +1,15 @@
+# 201 - P201
+
+discovered_by = western
+owner = Z12
+controller = Z12
+add_core = Z12
+culture = english
+religion = animism
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+hre = no
+capital = "P201"
+trade_goods = grain

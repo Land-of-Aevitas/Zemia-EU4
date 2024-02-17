@@ -1,0 +1,15 @@
+# 168 - P168
+
+discovered_by = western
+owner = Z15
+controller = Z15
+add_core = Z15
+culture = english
+religion = animism
+base_tax = 7
+base_production = 7
+base_manpower = 7
+is_city = yes
+hre = no
+capital = "P168"
+trade_goods = iron

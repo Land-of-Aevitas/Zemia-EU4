@@ -1,0 +1,15 @@
+# 64 - P64
+
+discovered_by = western
+owner = Z23
+controller = Z23
+add_core = Z23
+culture = english
+religion = animism
+base_tax = 2
+base_production = 3
+base_manpower = 3
+is_city = yes
+hre = no
+capital = "P64"
+trade_goods = gems

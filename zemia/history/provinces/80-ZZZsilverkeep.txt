@@ -1,0 +1,15 @@
+# 80 - Silverkeep
+
+discovered_by = western
+owner = Z12
+controller = Z12
+add_core = Z12
+culture = english
+religion = animism
+base_tax = 2
+base_production = 2
+base_manpower = 5
+is_city = yes
+hre = no
+capital = "Silverkeep"
+trade_goods = grain

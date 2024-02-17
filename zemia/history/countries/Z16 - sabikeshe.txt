@@ -1,0 +1,8 @@
+# Sabikeshe
+government = monarchy
+government_rank = 2
+technology_group = western
+religion = animism
+capital = 81
+add_government_reform = feudalism_reform
+primary_culture = english

@@ -1,0 +1,15 @@
+# 8 - P8
+
+discovered_by = western
+owner = Z06
+controller = Z06
+add_core = Z06
+culture = english
+religion = animism
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+hre = no
+capital = "P8"
+trade_goods = grain
