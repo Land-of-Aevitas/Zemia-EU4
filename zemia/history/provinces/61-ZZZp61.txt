@@ -1,9 +1,9 @@
 # 61 - P61
 
 discovered_by = western
-owner = Z06
-controller = Z06
-add_core = Z06
+owner = Z01
+controller = Z01
+add_core = Z01
 culture = english
 religion = animism
 base_tax = 1
