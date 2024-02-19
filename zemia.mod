@@ -3,7 +3,7 @@ tags={
 	"Alternative History"
 }
 version="1"
-picture="thumbnail.png"
+picture="thumbnail.jpg"
 supported_version="1.36.*"
 
 replace_path="common/disasters"
