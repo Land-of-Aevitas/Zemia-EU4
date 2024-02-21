@@ -1,7 +1,7 @@
- # Country (latinised): Sabikeshe
+ # Country (latinised): Sasheami
 graphical_culture = westerngfx
-color = {92 93 116}
-revolutionary_colors = {7 8 14}
+color = {42 60 55}
+revolutionary_colors = {8 9 4}
 historical_idea_groups = {
 	economic_ideas
 	defensive_ideas

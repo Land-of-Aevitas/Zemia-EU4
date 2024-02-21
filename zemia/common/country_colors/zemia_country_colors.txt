@@ -46,7 +46,7 @@ Z08 = { # Jikichi
 	color3= {26  56  141}
 }
 
-Z09 = { # Kami No
+Z09 = { # Kanyi
 	color1= {175 15  15 }
 	color2= {255 196 0  }
 	color3= {26  56  141}
@@ -88,7 +88,7 @@ Z15 = { # Privrmeti
 	color3= {26  56  141}
 }
 
-Z16 = { # Sabikeshe
+Z16 = { # Sabikevi
 	color1= {175 15  15 }
 	color2= {255 196 0  }
 	color3= {26  56  141}
@@ -131,6 +131,12 @@ Z22 = { # Midborne
 }
 
 Z23 = { # Deltan
+	color1= {175 15  15 }
+	color2= {255 196 0  }
+	color3= {26  56  141}
+}
+
+Z24 = { # Sasheami
 	color1= {175 15  15 }
 	color2= {255 196 0  }
 	color3= {26  56  141}
