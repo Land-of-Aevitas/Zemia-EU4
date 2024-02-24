@@ -1,0 +1,288 @@
+sylvan_culture_group = {
+	graphical_culture = westerngfx
+	male_names = {
+		"Sylvan M"
+	}
+	female_names = {
+		"Sylvan F"
+	}
+	dynasty_names = {
+		"Sylvan D"
+	}
+	bawsuri_culture = {
+		primary = Z01
+		male_names = {
+			"Bawsuri M"
+		}
+		female_names = {
+			"Bawsuri F"
+		}
+		dynasty_names = {
+			"Bawsuri D"
+		}
+	}
+	east_shiruban_culture = {
+		primary = Z08
+		male_names = {
+			"East Shiruban M"
+		}
+		female_names = {
+			"East Shiruban F"
+		}
+		dynasty_names = {
+			"East Shiruban D"
+		}
+	}
+	shiruban_culture = {
+		primary = Z06
+		male_names = {
+			"Shiruban M"
+		}
+		female_names = {
+			"Shiruban F"
+		}
+		dynasty_names = {
+			"Shiruban D"
+		}
+	}
+}
+yopuch_culture_group = {
+	graphical_culture = westerngfx
+	male_names = {
+		"Yopuch M"
+	}
+	female_names = {
+		"Yopuch F"
+	}
+	dynasty_names = {
+		"Yopuch D"
+	}
+	kanyi_culture = {
+		primary = Z09
+		male_names = {
+			"Kanyi M"
+		}
+		female_names = {
+			"Kanyi F"
+		}
+		dynasty_names = {
+			"Kanyi D"
+		}
+	}
+	lowlands_culture = {
+		primary = Z20
+		male_names = {
+			"Lowlands M"
+		}
+		female_names = {
+			"Lowlands F"
+		}
+		dynasty_names = {
+			"Lowlands D"
+		}
+	}
+	luna_culture = {
+		primary = Z11
+		male_names = {
+			"Luna M"
+		}
+		female_names = {
+			"Luna F"
+		}
+		dynasty_names = {
+			"Luna D"
+		}
+	}
+	sabi_culture = {
+		primary = Z16
+		male_names = {
+			"Sabi M"
+		}
+		female_names = {
+			"Sabi F"
+		}
+		dynasty_names = {
+			"Sabi D"
+		}
+	}
+}
+midborne_culture_group = {
+	graphical_culture = westerngfx
+	male_names = {
+		"Midborne M"
+	}
+	female_names = {
+		"Midborne F"
+	}
+	dynasty_names = {
+		"Midborne D"
+	}
+	midborne_culture = {
+		primary = Z22
+		male_names = {
+			"Midborne M"
+		}
+		female_names = {
+			"Midborne F"
+		}
+		dynasty_names = {
+			"Midborne D"
+		}
+	}
+	nabodu_culture = {
+		primary = Z03
+		male_names = {
+			"Ñabodu M"
+		}
+		female_names = {
+			"Ñabodu F"
+		}
+		dynasty_names = {
+			"Ñabodu D"
+		}
+	}
+	yopciweta_culture = {
+		primary = Z12
+		male_names = {
+			"Yopciweta M"
+		}
+		female_names = {
+			"Yopciweta F"
+		}
+		dynasty_names = {
+			"Yopciweta D"
+		}
+	}
+}
+powti_culture_group = {
+	graphical_culture = westerngfx
+	male_names = {
+		"Powti M"
+	}
+	female_names = {
+		"Powti F"
+	}
+	dynasty_names = {
+		"Powti D"
+	}
+	decayed_culture = {
+		primary = Z07
+		male_names = {
+			"Decayed M"
+		}
+		female_names = {
+			"Decayed F"
+		}
+		dynasty_names = {
+			"Decayed D"
+		}
+	}
+	sand_walker_culture = {
+		primary = Z14
+		male_names = {
+			"Sand-Walker M"
+		}
+		female_names = {
+			"Sand-Walker F"
+		}
+		dynasty_names = {
+			"Sand-Walker D"
+		}
+	}
+}
+detzhabdu_culture_group = {
+	graphical_culture = westerngfx
+	male_names = {
+		"Detzhabdu M"
+	}
+	female_names = {
+		"Detzhabdu F"
+	}
+	dynasty_names = {
+		"Detzhabdu D"
+	}
+	highlands_culture = {
+		primary = Z10
+		male_names = {
+			"Highlands M"
+		}
+		female_names = {
+			"Highlands F"
+		}
+		dynasty_names = {
+			"Highlands D"
+		}
+	}
+	truga_culture = {
+		primary = Z17
+		male_names = {
+			"Truga M"
+		}
+		female_names = {
+			"Truga F"
+		}
+		dynasty_names = {
+			"Truga D"
+		}
+	}
+}
+northern_culture_group = {
+	graphical_culture = westerngfx
+	male_names = {
+		"Northern M"
+	}
+	female_names = {
+		"Northern F"
+	}
+	dynasty_names = {
+		"Northern D"
+	}
+	napwmuri_culture = {
+		primary = Z15
+		male_names = {
+			"Napwmuri M"
+		}
+		female_names = {
+			"Napwmuri F"
+		}
+		dynasty_names = {
+			"Napwmuri D"
+		}
+	}
+	laksove_culture = {
+		primary = Z24
+		male_names = {
+			"Laksove M"
+		}
+		female_names = {
+			"Laksove F"
+		}
+		dynasty_names = {
+			"Laksove D"
+		}
+	}
+}
+deltanese_culture_group = {
+	graphical_culture = westerngfx
+	male_names = {
+		"Deltanese M"
+	}
+	female_names = {
+		"Deltanese F"
+	}
+	dynasty_names = {
+		"Deltanese D"
+	}
+	oursoulian_culture = {
+		primary = Z23
+		male_names = {
+			"Oursoulian M"
+		}
+		female_names = {
+			"Oursoulian F"
+		}
+		dynasty_names = {
+			"Oursoulian D"
+		}
+	}
+}

@@ -1,0 +1,69 @@
+shtu_sabo_religion_group = {
+	can_form_personal_unions = yes
+	center_of_religion = 1
+	crusade_name = shtu_sabo_religion_group_crusade
+	ciwedeti_religion = {
+		color = {22 130 138}
+		icon = 3
+		heretic = {
+			ciwedeti_religion_heretic_unenlightened
+		}
+	}
+	shti_religion = {
+		color = {166 31 31}
+		icon = 4
+		heretic = {
+			shti_religion_heretic_ciwedeti
+		}
+	}
+	zuvi_religion = {
+		color = {8 120 29}
+		icon = 5
+		heretic = {
+			zuvi_religion_heretic_ciwedeti
+		}
+	}
+}
+saratiami_religion_group = {
+	can_form_personal_unions = yes
+	center_of_religion = 1
+	crusade_name = saratiami_religion_group_crusade
+	meyopam_religion = {
+		color = {240 69 43}
+		icon = 1
+		heretic = {
+			meyopam_religion_heretic_talon_hunters
+		}
+	}
+	sasha_religion = {
+		color = {240 148 43}
+		icon = 2
+		heretic = {
+			sasha_religion_heretic_talon_hunters
+		}
+	}
+}
+hastam_religion_group = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	center_of_religion = 64
+	crusade_name = hastam_religion_group_crusade
+	church_of_shemesh_religion = {
+		color = {218 240 238}
+		icon = 6
+		heretic = {
+			church_of_shemesh_religion_heretic_cult_of_happy
+		}
+	}
+}
+monster_religion_group = {
+	center_of_religion = 1
+	crusade_name = monster_religion_group_crusade
+	monster_religion = {
+		color = {255 50 50}
+		icon = 7
+		heretic = {
+			monster_religion_heretic_orc
+		}
+	}
+}

@@ -1,0 +1,12 @@
+harmonized_shtu_sabo_religion_group = {	stability_cost_modifier = -0.1
+	religion = yes # idk what this does but all vanilla harmonise modifiers have it
+}
+harmonized_saratiami_religion_group = {	stability_cost_modifier = -0.1
+	religion = yes # idk what this does but all vanilla harmonise modifiers have it
+}
+harmonized_hastam_religion_group = {	stability_cost_modifier = -0.1
+	religion = yes # idk what this does but all vanilla harmonise modifiers have it
+}
+harmonized_monster_religion_group = {	stability_cost_modifier = -0.1
+	religion = yes # idk what this does but all vanilla harmonise modifiers have it
+}

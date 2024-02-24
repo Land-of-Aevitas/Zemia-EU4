@@ -1,15 +1,15 @@
-# 60 - P60
+# 57 - Zhknami
 
 discovered_by = western
 owner = Z01
 controller = Z01
 add_core = Z01
-culture = english
-religion = animism
 base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
 hre = no
-capital = "P60"
+culture = east_shiruban_culture
+religion = sasha_religion
+capital = "Zhknami"
 trade_goods = grain

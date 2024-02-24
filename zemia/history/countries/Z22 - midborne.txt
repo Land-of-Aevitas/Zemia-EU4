@@ -2,7 +2,7 @@
 government = monarchy
 government_rank = 2
 technology_group = western
-religion = animism
 capital = 87
 add_government_reform = feudalism_reform
-primary_culture = english
+primary_culture = midborne_culture
+religion = meyopam_religion
