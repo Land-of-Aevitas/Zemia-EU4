@@ -12,26 +12,26 @@ zemia_generic_ideas = {
 	}
 	free = yes
 
-	zemia_generic_ideas_idea_1 = {
+	zemia_generic_idea_idea_1 = {
 		development_cost = -0.1
 	}
-	zemia_generic_ideas_idea_2 = {
+	zemia_generic_idea_idea_2 = {
 		build_cost = -0.1
 	}
-	zemia_generic_ideas_idea_3 = {
+	zemia_generic_idea_idea_3 = {
 		global_heretic_missionary_strength = 0.02
 	}
-	zemia_generic_ideas_idea_4 = {
+	zemia_generic_idea_idea_4 = {
 		prestige = 1
 	}
-	zemia_generic_ideas_idea_5 = {
+	zemia_generic_idea_idea_5 = {
 		discipline = 0.025
 	}
-	zemia_generic_ideas_idea_6 = {
+	zemia_generic_idea_idea_6 = {
 		leader_naval_shock = 1
 		naval_morale = 0.15
 	}
-	zemia_generic_ideas_idea_7 = {
+	zemia_generic_idea_idea_7 = {
 		production_efficiency = 0.1
 	}
 }
