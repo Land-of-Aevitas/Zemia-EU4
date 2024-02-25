@@ -1,4 +1,4 @@
-zemia_generic_ideas = {
+zemia_generic_idea = {
 	start = {
 		global_unrest = -1
 		diplomatic_reputation = 2
