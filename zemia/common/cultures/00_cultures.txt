@@ -132,13 +132,13 @@ midborne_culture_group = {
 	nabodu_culture = {
 		primary = Z03
 		male_names = {
-			"Ñabodu M"
+			"Ã‘abodu M"
 		}
 		female_names = {
-			"Ñabodu F"
+			"Ã‘abodu F"
 		}
 		dynasty_names = {
-			"Ñabodu D"
+			"Ã‘abodu D"
 		}
 	}
 	yopciweta_culture = {
