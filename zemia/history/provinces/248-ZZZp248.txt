@@ -1,3 +1,0 @@
-# 248 - P248
-
-discovered_by = western

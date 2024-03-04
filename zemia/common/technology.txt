@@ -1,0 +1,56 @@
+groups = {
+	islander_tech_group = {
+		start_level = 3
+		start_cost_modifier = 0
+		nation_designer_cost = {
+			value = 100
+		}
+	}
+	western_tech_group = {
+		start_level = 3
+		start_cost_modifier = 0
+		nation_designer_cost = {
+			value = 100
+		}
+	}
+	eastern_tech_group = {
+		start_level = 3
+		start_cost_modifier = 0
+		nation_designer_cost = {
+			value = 100
+		}
+	}
+	monster_tech_group = {
+		start_level = 3
+		start_cost_modifier = 0
+		nation_designer_cost = {
+			value = 100
+		}
+	}
+	duegar_tech_group = {
+		start_level = 3
+		start_cost_modifier = 0
+		nation_designer_cost = {
+			value = 100
+		}
+	}
+	northern_tech_group = {
+		start_level = 3
+		start_cost_modifier = 0
+		nation_designer_cost = {
+			value = 100
+		}
+	}
+	delta_tech_group = {
+		start_level = 3
+		start_cost_modifier = 0
+		nation_designer_cost = {
+			value = 100
+		}
+	}
+}
+tables = {
+	adm_tech = "technologies/adm.txt"
+	dip_tech = "technologies/dip.txt"
+	mil_tech = "technologies/mil.txt"
+}

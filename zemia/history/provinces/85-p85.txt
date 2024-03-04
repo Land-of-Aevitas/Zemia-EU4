@@ -1,0 +1,15 @@
+# 85 - P85
+
+discovered_by = islander_tech_group
+owner = Z12
+controller = Z12
+add_core = Z12
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+hre = no
+culture = midborne_culture
+religion = meyopam_religion
+capital = "P85"
+trade_goods = livestock

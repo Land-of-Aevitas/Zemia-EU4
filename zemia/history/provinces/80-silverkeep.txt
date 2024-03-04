@@ -1,0 +1,15 @@
+# 80 - Silverkeep
+
+discovered_by = islander_tech_group
+owner = Z12
+controller = Z12
+add_core = Z12
+base_tax = 2
+base_production = 2
+base_manpower = 5
+is_city = yes
+hre = no
+culture = yopciweta_culture
+religion = meyopam_religion
+capital = "Silverkeep"
+trade_goods = grain

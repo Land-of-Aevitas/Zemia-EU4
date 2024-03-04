@@ -1,0 +1,15 @@
+# 145 - P145
+
+discovered_by = islander_tech_group
+owner = Z20
+controller = Z20
+add_core = Z20
+base_tax = 8
+base_production = 8
+base_manpower = 8
+is_city = yes
+hre = no
+culture = decayed_culture
+religion = monster_religion
+capital = "P145"
+trade_goods = copper

@@ -1,0 +1,15 @@
+# 61 - P61
+
+discovered_by = islander_tech_group
+owner = Z01
+controller = Z01
+add_core = Z01
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+hre = no
+culture = east_shiruban_culture
+religion = sasha_religion
+capital = "P61"
+trade_goods = grain

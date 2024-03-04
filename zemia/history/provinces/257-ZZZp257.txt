@@ -1,3 +1,0 @@
-# 257 - P257
-
-discovered_by = western

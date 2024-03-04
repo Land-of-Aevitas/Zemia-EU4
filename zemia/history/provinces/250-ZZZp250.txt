@@ -1,3 +1,0 @@
-# 250 - P250
-
-discovered_by = western

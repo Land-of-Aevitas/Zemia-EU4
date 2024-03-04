@@ -1,0 +1,102 @@
+# dip tech
+monarch_power = DIP
+ahead_of_time = {
+	trade_efficiency = 0.2
+	yearly_corruption = -0.05
+}
+technology = { # 0 | Dip 0
+	year = 1076
+	
+	naval_morale = 2.0
+	range = 60
+	may_fabricate_claims = yes
+	enable = war_canoe
+}
+technology = { # 1 | Dip 1
+	year = 1086
+	
+	merchants = yes
+	trade_range = 100
+	global_colonial_growth = 10
+}
+technology = { # 2 | Dip 2
+	year = 1096
+	
+	trade_range = 100
+	naval_engagement_width = 16
+	enable = barque
+	enable = cog
+	enable = galley
+}
+technology = { # 3 | Dip 3
+	year = 1106
+	
+	naval_morale = 0.1
+	naval_maintenance = 0.1
+	range = 100
+	trade_efficiency = 0.02
+	global_colonial_growth = 15
+	may_build_flagships = yes
+	naval_engagement_width = 2
+}
+technology = { # 4 | Dip 4
+	year = 1116
+	
+	trade_range = 10
+	marketplace = yes
+	naval_engagement_width = 2
+}
+technology = { # 5 | Dip 5
+	year = 1126
+	
+	naval_maintenance = 0.1
+	trade_efficiency = 0.02
+	trade_range = 20
+	coastal_defence = yes
+	naval_engagement_width = 2
+}
+technology = { # 6 | Dip 6
+	year = 1136
+	
+	dock = yes
+	may_steal_maps = yes
+}
+technology = { # 7 | Dip 7
+	year = 1146
+	
+	naval_morale = 0.3
+	range = 115
+	impressment_offices = yes
+}
+technology = { # 8 | Dip 8
+	year = 1156
+	
+	num_accepted_cultures = 1
+	shipyard = yes
+	trade_range = 10
+	naval_morale = 0.2
+}
+technology = { # 9 | Dip 9
+	year = 1166
+	
+	naval_maintenance = 0.1
+	range = 50
+	may_study_technology = yes
+	enable = carrack
+	enable = caravel
+}
+technology = { # 10 | Dip 10
+	year = 1176
+	
+	trade_efficiency = 0.02
+	trade_range = 20
+	global_colonial_growth = 10
+	enable = flute
+	enable = war_galley
+}
+technology = { # 11 | Dip 11
+	year = 1186
+	
+	range = 100
+	wharf = yes
+}

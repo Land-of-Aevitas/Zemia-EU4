@@ -1,8 +1,8 @@
 # Deltan
 government = monarchy
 government_rank = 2
-technology_group = western
 capital = 64
 add_government_reform = feudalism_reform
+technology_group = delta_tech_group
 primary_culture = oursoulian_culture
 religion = church_of_shemesh_religion

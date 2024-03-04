@@ -1,0 +1,15 @@
+# 28 - P28
+
+discovered_by = islander_tech_group
+owner = Z06
+controller = Z06
+add_core = Z06
+base_tax = 1
+base_production = 1
+base_manpower = 2
+is_city = yes
+hre = no
+culture = east_shiruban_culture
+religion = sasha_religion
+capital = "P28"
+trade_goods = grain

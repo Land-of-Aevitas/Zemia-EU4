@@ -1,0 +1,15 @@
+# 24 - P24
+
+discovered_by = islander_tech_group
+owner = Z06
+controller = Z06
+add_core = Z06
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+hre = no
+culture = east_shiruban_culture
+religion = sasha_religion
+capital = "P24"
+trade_goods = grain

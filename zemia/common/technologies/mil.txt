@@ -1,0 +1,194 @@
+# mil tech
+monarch_power = MIL
+ahead_of_time = {
+	yearly_corruption = -0.05
+}
+technology = { # 0 | Mil 0
+	year = 1076
+	
+	infantry_fire = 0.25
+	infantry_shock = 0.20
+	cavalry_shock = 0.8
+	land_morale = 2.0
+	combat_width = 1
+	enable = islander_islander_cav_1_a_unit
+	enable = islander_islander_cav_1_b_unit
+	enable = western_western_cav_1_a_unit
+	enable = western_western_cav_1_b_unit
+	enable = eastern_eastern_cav_1_a_unit
+	enable = eastern_eastern_cav_1_b_unit
+	enable = monster_monster_cav_1_a_unit
+	enable = monster_monster_cav_1_b_unit
+	enable = duegar_duegar_cav_1_a_unit
+	enable = duegar_duegar_cav_1_b_unit
+	enable = northern_northern_cav_1_a_unit
+	enable = northern_northern_cav_1_b_unit
+	enable = delta_northern_cav_1_a_unit
+	enable = delta_northern_cav_1_b_unit
+}
+technology = { # 1 | Mil 1
+	year = 1086
+	
+	infantry_shock = 0.1
+	infantry_fire = 0.1
+	fort_15th = yes
+	combat_width = 1
+}
+technology = { # 2 | Mil 2
+	year = 1096
+	
+	infantry_shock = 0.2
+	cavalry_shock = 0.2
+	combat_width = 1
+	enable = islander_islander_inf_1_c_unit
+	enable = islander_islander_inf_1_d_unit
+	enable = western_western_inf_1_c_unit
+	enable = western_western_inf_1_d_unit
+	enable = eastern_eastern_inf_1_c_unit
+	enable = eastern_eastern_inf_1_d_unit
+	enable = monster_monster_inf_1_c_unit
+	enable = monster_monster_inf_1_d_unit
+	enable = duegar_duegar_inf_1_c_unit
+	enable = duegar_duegar_inf_1_d_unit
+	enable = northern_northern_inf_1_c_unit
+	enable = northern_northern_inf_1_d_unit
+	enable = delta_northern_inf_1_c_unit
+	enable = delta_northern_inf_1_d_unit
+}
+technology = { # 3 | Mil 3
+	year = 1106
+	
+	land_morale = 0.5
+	may_drill = yes
+	combat_width = 1
+	enable = islander_islander_cav_1_c_unit
+	enable = islander_islander_cav_1_d_unit
+	enable = western_western_cav_1_c_unit
+	enable = western_western_cav_1_d_unit
+	enable = eastern_eastern_cav_1_c_unit
+	enable = eastern_eastern_cav_1_d_unit
+	enable = monster_monster_cav_1_c_unit
+	enable = monster_monster_cav_1_d_unit
+	enable = duegar_duegar_cav_1_c_unit
+	enable = duegar_duegar_cav_1_d_unit
+	enable = northern_northern_cav_1_c_unit
+	enable = northern_northern_cav_1_d_unit
+	enable = delta_northern_cav_1_c_unit
+	enable = delta_northern_cav_1_d_unit
+}
+technology = { # 4 | Mil 4
+	year = 1116
+	
+	land_morale = 0.5
+	military_tactics = 0.25
+	combat_width = 1
+}
+technology = { # 5 | Mil 5
+	year = 1126
+	
+	supply_limit = 0.5
+	infantry_shock = 0.15
+	cavalry_shock = 0.2
+	combat_width = 1
+	enable = islander_islander_inf_2_a_unit
+	enable = islander_islander_inf_2_b_unit
+	enable = western_western_inf_2_a_unit
+	enable = western_western_inf_2_b_unit
+	enable = eastern_eastern_inf_2_a_unit
+	enable = eastern_eastern_inf_2_b_unit
+	enable = monster_monster_inf_2_a_unit
+	enable = monster_monster_inf_2_b_unit
+	enable = duegar_duegar_inf_2_a_unit
+	enable = duegar_duegar_inf_2_b_unit
+	enable = northern_northern_inf_2_a_unit
+	enable = northern_northern_inf_2_b_unit
+	enable = delta_northern_inf_2_a_unit
+	enable = delta_northern_inf_2_b_unit
+}
+technology = { # 6 | Mil 6
+	year = 1136
+	
+	military_tactics = 0.25
+	infantry_shock = 0.30
+	infantry_fire = 0.20
+	barracks = yes
+	combat_width = 1
+	enable = islander_islander_cav_2_a_unit
+	enable = islander_islander_cav_2_b_unit
+	enable = western_western_cav_2_a_unit
+	enable = western_western_cav_2_b_unit
+	enable = eastern_eastern_cav_2_a_unit
+	enable = eastern_eastern_cav_2_b_unit
+	enable = monster_monster_cav_2_a_unit
+	enable = monster_monster_cav_2_b_unit
+	enable = duegar_duegar_cav_2_a_unit
+	enable = duegar_duegar_cav_2_b_unit
+	enable = northern_northern_cav_2_a_unit
+	enable = northern_northern_cav_2_b_unit
+	enable = delta_northern_cav_2_a_unit
+	enable = delta_northern_cav_2_b_unit
+}
+technology = { # 7 | Mil 7
+	year = 1146
+	
+	artillery_fire = 1
+	artillery_shock = 0.05
+	military_tactics = 0.25
+	combat_width = 1
+}
+technology = { # 8 | Mil 8
+	year = 1156
+	
+	infantry_fire = 0.25
+	cavalry_shock = 0.8
+	regimental_camp = yes
+	combat_width = 1
+	enable = islander_islander_inf_2_c_unit
+	enable = islander_islander_inf_2_d_unit
+	enable = western_western_inf_2_c_unit
+	enable = western_western_inf_2_d_unit
+	enable = eastern_eastern_inf_2_c_unit
+	enable = eastern_eastern_inf_2_d_unit
+	enable = monster_monster_inf_2_c_unit
+	enable = monster_monster_inf_2_d_unit
+	enable = duegar_duegar_inf_2_c_unit
+	enable = duegar_duegar_inf_2_d_unit
+	enable = northern_northern_inf_2_c_unit
+	enable = northern_northern_inf_2_d_unit
+	enable = delta_northern_inf_2_c_unit
+	enable = delta_northern_inf_2_d_unit
+}
+technology = { # 9 | Mil 9
+	year = 1166
+	
+	military_tactics = 0.25
+	combat_width = 1
+	enable = islander_islander_cav_2_c_unit
+	enable = islander_islander_cav_2_d_unit
+	enable = western_western_cav_2_c_unit
+	enable = western_western_cav_2_d_unit
+	enable = eastern_eastern_cav_2_c_unit
+	enable = eastern_eastern_cav_2_d_unit
+	enable = monster_monster_cav_2_c_unit
+	enable = monster_monster_cav_2_d_unit
+	enable = duegar_duegar_cav_2_c_unit
+	enable = duegar_duegar_cav_2_d_unit
+	enable = northern_northern_cav_2_c_unit
+	enable = northern_northern_cav_2_d_unit
+	enable = delta_northern_cav_2_c_unit
+	enable = delta_northern_cav_2_d_unit
+}
+technology = { # 10 | Mil 10
+	year = 1176
+	
+	maneuver_value = 0.25
+	combat_width = 1
+}
+technology = { # 11 | Mil 11
+	year = 1186
+	
+	infantry_shock = 0.20
+	cavalry_fire = 0.5
+	weapons = yes
+	combat_width = 1
+}

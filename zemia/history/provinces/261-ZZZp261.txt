@@ -1,3 +1,0 @@
-# 261 - P261
-
-discovered_by = western

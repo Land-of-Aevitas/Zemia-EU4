@@ -1,0 +1,15 @@
+# 33 - Fei
+
+discovered_by = islander_tech_group
+owner = Z06
+controller = Z06
+add_core = Z06
+base_tax = 3
+base_production = 5
+base_manpower = 4
+is_city = yes
+hre = no
+culture = east_shiruban_culture
+religion = sasha_religion
+capital = "Fei"
+trade_goods = grain

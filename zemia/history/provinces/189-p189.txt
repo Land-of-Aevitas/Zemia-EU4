@@ -1,0 +1,15 @@
+# 189 - P189
+
+discovered_by = islander_tech_group
+owner = Z15
+controller = Z15
+add_core = Z15
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+hre = no
+culture = sand_walker_culture
+religion = monster_religion
+capital = "P189"
+trade_goods = grain

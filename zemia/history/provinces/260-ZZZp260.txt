@@ -1,3 +1,0 @@
-# 260 - P260
-
-discovered_by = western

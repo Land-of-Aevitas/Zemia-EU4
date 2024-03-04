@@ -1,0 +1,15 @@
+# 7 - P7
+
+discovered_by = islander_tech_group
+owner = Z06
+controller = Z06
+add_core = Z06
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+hre = no
+culture = kanyi_culture
+religion = shti_religion
+capital = "P7"
+trade_goods = cocoa

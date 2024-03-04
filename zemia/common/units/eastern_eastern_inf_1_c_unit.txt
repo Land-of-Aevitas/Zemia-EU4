@@ -1,0 +1,11 @@
+# Tech: 3
+unit_type = eastern_tech_group
+type = infantry
+
+maneuver = 1
+offensive_fire = 0
+defensive_fire = 0
+offensive_shock = 1
+defensive_shock = 1
+offensive_morale = 0
+defensive_morale = 1

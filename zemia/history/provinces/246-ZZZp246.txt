@@ -1,3 +1,0 @@
-# 246 - P246
-
-discovered_by = western

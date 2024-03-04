@@ -1,0 +1,15 @@
+# 64 - P64
+
+discovered_by = islander_tech_group
+owner = Z23
+controller = Z23
+add_core = Z23
+base_tax = 2
+base_production = 3
+base_manpower = 3
+is_city = yes
+hre = no
+culture = oursoulian_culture
+religion = church_of_shemesh_religion
+capital = "P64"
+trade_goods = gems

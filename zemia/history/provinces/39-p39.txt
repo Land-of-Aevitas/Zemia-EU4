@@ -1,0 +1,15 @@
+# 39 - P39
+
+discovered_by = islander_tech_group
+owner = Z06
+controller = Z06
+add_core = Z06
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+hre = no
+culture = bawsuri_culture
+religion = sasha_religion
+capital = "P39"
+trade_goods = grain

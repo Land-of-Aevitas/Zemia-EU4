@@ -1,3 +1,0 @@
-# 242 - South-West Lake
-
-discovered_by = western

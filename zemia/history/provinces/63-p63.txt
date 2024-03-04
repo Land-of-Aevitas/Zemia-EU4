@@ -1,0 +1,15 @@
+# 63 - P63
+
+discovered_by = islander_tech_group
+owner = Z23
+controller = Z23
+add_core = Z23
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+hre = no
+culture = oursoulian_culture
+religion = church_of_shemesh_religion
+capital = "P63"
+trade_goods = grain

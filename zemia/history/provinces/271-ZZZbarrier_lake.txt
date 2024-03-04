@@ -1,3 +1,0 @@
-# 271 - Barrier Lake
-
-discovered_by = western

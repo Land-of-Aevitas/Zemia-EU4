@@ -1,0 +1,15 @@
+# 117 - P117
+
+discovered_by = islander_tech_group
+owner = Z20
+controller = Z20
+add_core = Z20
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+hre = no
+culture = kanyi_culture
+religion = shti_religion
+capital = "P117"
+trade_goods = grain

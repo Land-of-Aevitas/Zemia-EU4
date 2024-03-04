@@ -1,3 +1,0 @@
-# 272 - World Border
-
-discovered_by = western

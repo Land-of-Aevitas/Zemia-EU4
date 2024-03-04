@@ -1,0 +1,15 @@
+# 72 - P72
+
+discovered_by = islander_tech_group
+owner = Z12
+controller = Z12
+add_core = Z12
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+hre = no
+culture = yopciweta_culture
+religion = meyopam_religion
+capital = "P72"
+trade_goods = grain
