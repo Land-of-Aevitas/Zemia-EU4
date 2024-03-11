@@ -1,6 +1,12 @@
 # 118 - P118
 
 discovered_by = islander_tech_group
+discovered_by = western_tech_group
+discovered_by = eastern_tech_group
+discovered_by = monster_tech_group
+discovered_by = duegar_tech_group
+discovered_by = northern_tech_group
+discovered_by = delta_tech_group
 owner = Z20
 controller = Z20
 add_core = Z20

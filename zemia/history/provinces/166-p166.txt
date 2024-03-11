@@ -1,6 +1,12 @@
 # 166 - P166
 
 discovered_by = islander_tech_group
+discovered_by = western_tech_group
+discovered_by = eastern_tech_group
+discovered_by = monster_tech_group
+discovered_by = duegar_tech_group
+discovered_by = northern_tech_group
+discovered_by = delta_tech_group
 owner = Z10
 controller = Z10
 add_core = Z10

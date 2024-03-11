@@ -53,3 +53,6 @@ deltanese_sea_superregion = {
 
 	soul_coast_region
 }
+zemia_rivers_superregion = {
+	zemia_rivers_region
+}

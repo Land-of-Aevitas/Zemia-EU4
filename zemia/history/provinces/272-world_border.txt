@@ -1,3 +1,0 @@
-# 272 - World Border
-
-discovered_by = islander_tech_group

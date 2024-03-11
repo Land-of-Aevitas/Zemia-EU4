@@ -31,116 +31,62 @@ historical_units = {
 	
 }
 monarch_names = {
-	"Václav #4" = 50
-	"Jirí #0" = 25
-	"Karel #5" = 40
-	"Premysl #0" = 10
-	"Premysl Otakar #3" = 25
-	"Zikmund #0" = 0
-	"Frantisek #0" = 0
-	"Jindrich #0" = 5
-	"Josef #0" = 5
-	"Frantisek Josef #0" = 0
-	"Bocek #0" = 0
-	"Jan Jirí #0" = 5
-	"Ludvík #0" = 0
-	"Vladislav #0" = 20
-	"Vladimír #0" = 10
-	"Petr #0" = 5
-	"Jan Petr #0" = 5
-	"Viktorín #0" = 0
-	"Jan Václav #0" = 0
-	"Josef Václav #0" = 0
-	"Karel Josef #0" = 0
-	"Matyáš #0" = 0
-	"Ferdinand #0" = 5
-	"Otakar #0" = 10
-	"Vratislav #3" = 5
-	"Boleslav #4" = 10
-	"Vilém #0" = 5
-	"Viktor #0" = 0
-	"Jaromír #0" = 5
-	"Jaroslav #0" = 1
-	"Anezka #0" = -1
-	"Eliska #0" = -1
-	"Katerina #0" = -1
-	"Marie #0" = -1
-	"Ludmila #0" = -1
-	"Alzbeta #0" = -1
-	
+	"Z18 Monarch 1 #0" = 10
+	"Z18 Monarch 2 #0" = 10
+	"Z18 Monarch 3 #0" = 10
+	"Z18 Monarch 4 #0" = 10
+	"Z18 Monarch 5 #0" = 10
+	"Z18 Monarch 6 #0" = 10
+	"Z18 Monarch 7 #0" = 10
+	"Z18 Monarch 8 #0" = 10
+	"Z18 Monarch 9 #0" = 10
+	"Z18 Monarch 10 #0" = 10
 }
 leader_names = {
-	"Zajíc"
-	"Jiskra"
-	"Zelezný"
-	"Capek"
-	"Thurn"
-	"Kolowrat"
-	"Schwarzenberg"
-	"z Rozmberka"
-	"Velen"
-	"Sokol"
-	"ze Zerotína"
-	"z Husi"
-	"z Polzic"
-	"Harant"
-	"z Brandýsa"
-	"Purkyne"
-	"z Veleslavína"
-	"z Rozmitálu"
-	"Berka"
-	"z Pardubic"
-	"ze Lvovic"
-	"Kaspar"
-	"Reiner"
-	"ze Svamberka"
-	"z Vartemberka"
-	"z Mitrovic"
-	"Píka"
-	"Mansfeld"
-	"Veliký"
-	"Syrový"
-	"z Otradovic"
-	"z Falkensteina"
+	"Z18 Leader 1"
+	"Z18 Leader 2"
+	"Z18 Leader 3"
+	"Z18 Leader 4"
+	"Z18 Leader 5"
+	"Z18 Leader 6"
+	"Z18 Leader 7"
+	"Z18 Leader 8"
+	"Z18 Leader 9"
+	"Z18 Leader 10"
 }
 ship_names = {
-	"Svatý Vaclav"
-	"Svatá Ludmila"
-	"Svatý Jan Nepomucký"
-	"Svatý Mikulás"
-	"Svatý Jirí"
-	"Svatá Anezká"
-	"Nejsvetejsí Trojice"
-	"Král Karel"
-	"Král Boleslav"
-	"Král Premysl"
-	"Panna Maria Vitezná"
-	"Jan Hus"
-	"Jan Zizka"
-	"Prokop Holý"
-	"Kníze Bretislav"
-	"Premysl Orac"
-	"Ctirad"
-	"Cechy"
-	"Morava"
-	"Libuse"
-	"Odvázný"
-	"Neporazitelný"
-	"Rychlý"
-	"Bystrý"
-	"Orel"
-	"Sokol"
-	"Slezsko"
-	"Sipka"
-	"Hvezda"
+	"Z18 Ship 1"
+	"Z18 Ship 2"
+	"Z18 Ship 3"
+	"Z18 Ship 4"
+	"Z18 Ship 5"
+	"Z18 Ship 6"
+	"Z18 Ship 7"
+	"Z18 Ship 8"
+	"Z18 Ship 9"
+	"Z18 Ship 10"
 }
 army_names = {
-	"Royal Army"
-	"Army of Zemia"
+	"Z18 Army 1"
+	"Z18 Army 2"
+	"Z18 Army 3"
+	"Z18 Army 4"
+	"Z18 Army 5"
+	"Z18 Army 6"
+	"Z18 Army 7"
+	"Z18 Army 8"
+	"Z18 Army 9"
+	"Z18 Army 10"
 }
 fleet_names = {
-	"Royal Navy"
-	"Blue Squadron"
-	"Red Squadron"
-	"White Squadron"
+	"Z18 Fleet 1"
+	"Z18 Fleet 2"
+	"Z18 Fleet 3"
+	"Z18 Fleet 4"
+	"Z18 Fleet 5"
+	"Z18 Fleet 6"
+	"Z18 Fleet 7"
+	"Z18 Fleet 8"
+	"Z18 Fleet 9"
+	"Z18 Fleet 10"
 }

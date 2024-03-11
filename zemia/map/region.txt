@@ -166,3 +166,8 @@ soul_coast_region = {
 		lost_coast_area
 	}
 }
+zemia_rivers_region = {
+	areas = {
+		zemia_rivers_area
+	}
+}

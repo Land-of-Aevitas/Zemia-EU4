@@ -1,3 +1,0 @@
-# 249 - P249
-
-discovered_by = islander_tech_group

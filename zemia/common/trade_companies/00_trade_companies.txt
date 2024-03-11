@@ -1,6 +1,6 @@
 island_trade_company = {
 	color = {50 64 168}
-	members = {
+	provinces = {
 		15	23	35	36	37
 		38	39	40	46	47
 		48	49	50	51	52
@@ -16,7 +16,7 @@ island_trade_company = {
 }
 sylvan_trade_company = {
 	color = {12 138 73}
-	members = {
+	provinces = {
 		1	2	3	4	5
 		6	7	8	9	10
 		11	12	13	14	16
@@ -35,7 +35,7 @@ sylvan_trade_company = {
 }
 orcfields_trade_company = {
 	color = {102 161 43}
-	members = {
+	provinces = {
 		168	169	170	193	195
 		205	206	207	208	209
 		210	211	212	213	221
@@ -51,7 +51,7 @@ orcfields_trade_company = {
 }
 epic_gamer_trade_company = {
 	color = {252 237 162}
-	members = {
+	provinces = {
 		171	172	173	174	175
 		176	177	178	179	180
 		181	182	183	184	185
@@ -67,7 +67,7 @@ epic_gamer_trade_company = {
 }
 homeland_trade_company = {
 	color = {166 164 164}
-	members = {
+	provinces = {
 		164	165	166	167	196
 		197	198	202	203	204
 		214	215	216	217	218
@@ -84,12 +84,12 @@ homeland_trade_company = {
 }
 falconmar_trade_company = {
 	color = {174 219 110}
-	members = {
+	provinces = {
 		67	68	69	70	71
 		81	82	83	84	85
 		86	87	101	102	103
 		106	107	163	199	200
-		201
+		201	242
 	}
 	names = {
 		name = falconmar_trade_company_0
@@ -100,11 +100,11 @@ falconmar_trade_company = {
 }
 shufmibu_trade_company = {
 	color = {129 53 130}
-	members = {
+	provinces = {
 		72	73	74	79	80
 		88	89	90	96	97
 		98	99	100	108	109
-		115
+		115	243
 	}
 	names = {
 		name = shufmibu_trade_company_0
@@ -115,7 +115,7 @@ shufmibu_trade_company = {
 }
 swamps_trade_company = {
 	color = {107 75 1}
-	members = {
+	provinces = {
 		126	127	128	138	139
 		140	141	142	143	159
 		160	161	162
@@ -129,7 +129,7 @@ swamps_trade_company = {
 }
 forlorn_trade_company = {
 	color = {83 87 85}
-	members = {
+	provinces = {
 		144	145	146	147	148
 		149	150	151	152	153
 		154	155	156	157	158
@@ -143,11 +143,12 @@ forlorn_trade_company = {
 }
 seven_lakes_trade_company = {
 	color = {54 149 186}
-	members = {
+	provinces = {
 		104	105	116	117	118
 		119	120	121	122	123
 		124	129	130	131	132
 		133	134	135	136	137
+		104
 	}
 	names = {
 		name = seven_lakes_trade_company_0
@@ -158,7 +159,7 @@ seven_lakes_trade_company = {
 }
 deltan_trade_company = {
 	color = {71 85 120}
-	members = {
+	provinces = {
 		63	64	65	66
 	}
 	names = {
@@ -170,7 +171,7 @@ deltan_trade_company = {
 }
 puzhna_trade_company = {
 	color = {252 201 126}
-	members = {
+	provinces = {
 		75	76	77	78	91
 		92	93	94	95	110
 		111	112	113	114	125

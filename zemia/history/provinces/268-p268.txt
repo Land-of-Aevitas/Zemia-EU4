@@ -1,3 +1,0 @@
-# 268 - P268
-
-discovered_by = islander_tech_group

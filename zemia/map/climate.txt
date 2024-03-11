@@ -46,7 +46,7 @@ severe_monsoon = {
 }
 
 impassable = {
-	272
+	282
 }
 
 equator_y_on_province_image = 656 # idk what this does

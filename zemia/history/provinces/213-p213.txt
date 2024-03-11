@@ -1,6 +1,12 @@
 # 213 - P213
 
 discovered_by = islander_tech_group
+discovered_by = western_tech_group
+discovered_by = eastern_tech_group
+discovered_by = monster_tech_group
+discovered_by = duegar_tech_group
+discovered_by = northern_tech_group
+discovered_by = delta_tech_group
 owner = Z15
 controller = Z15
 add_core = Z15

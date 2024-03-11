@@ -1,3 +1,0 @@
-# 243 - Central Lake
-
-discovered_by = islander_tech_group
