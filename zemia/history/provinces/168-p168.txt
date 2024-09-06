@@ -10,6 +10,7 @@ discovered_by = delta_tech_group
 owner = Z15
 controller = Z15
 add_core = Z15
+add_core = Z07
 base_tax = 7
 base_production = 7
 base_manpower = 7

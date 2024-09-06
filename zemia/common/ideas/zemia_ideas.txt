@@ -35,3 +35,1039 @@ zemia_generic_idea = {
 		production_efficiency = 0.1
 	}
 }
+zemia_bawsuri_order_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z01
+	}
+	free = yes
+
+	zemia_bawsuri_order_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_bawsuri_order_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_bawsuri_order_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_bawsuri_order_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_bawsuri_order_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_bawsuri_order_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_bawsuri_order_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_crystal_duchy_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z02
+	}
+	free = yes
+
+	zemia_crystal_duchy_idea_indigo_revolution = {
+		development_cost = -0.1
+	}
+	zemia_crystal_duchy_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_crystal_duchy_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_crystal_duchy_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_crystal_duchy_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_crystal_duchy_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_crystal_duchy_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_deschov_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z03
+	}
+	free = yes
+
+	zemia_deschov_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_deschov_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_deschov_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_deschov_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_deschov_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_deschov_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_deschov_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_east_pemer_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z04
+	}
+	free = yes
+
+	zemia_east_pemer_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_east_pemer_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_east_pemer_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_east_pemer_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_east_pemer_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_east_pemer_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_east_pemer_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_feimori_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z05
+	}
+	free = yes
+
+	zemia_feimori_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_feimori_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_feimori_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_feimori_idea_tayemnas_guidance = {
+		prestige = 1
+	}
+	zemia_feimori_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_feimori_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_feimori_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_fei_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z06
+	}
+	free = yes
+
+	zemia_fei_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_fei_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_fei_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_fei_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_fei_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_fei_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_fei_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_dzora_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z07
+	}
+	free = yes
+
+	zemia_dzora_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_dzora_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_dzora_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_dzora_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_dzora_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_dzora_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_dzora_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_jikichi_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z08
+	}
+	free = yes
+
+	zemia_jikichi_idea_restricted_conscription = {
+		development_cost = -0.1
+	}
+	zemia_jikichi_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_jikichi_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_jikichi_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_jikichi_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_jikichi_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_jikichi_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_kanyi_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z09
+	}
+	free = yes
+
+	zemia_kanyi_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_kanyi_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_kanyi_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_kanyi_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_kanyi_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_kanyi_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_kanyi_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_krengo_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z10
+	}
+	free = yes
+
+	zemia_krengo_idea_mountain_men = {
+		development_cost = -0.1
+	}
+	zemia_krengo_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_krengo_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_krengo_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_krengo_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_krengo_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_krengo_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_lunaris_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z11
+	}
+	free = yes
+
+	zemia_lunaris_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_lunaris_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_lunaris_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_lunaris_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_lunaris_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_lunaris_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_lunaris_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_plaxen_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z12
+	}
+	free = yes
+
+	zemia_plaxen_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_plaxen_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_plaxen_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_plaxen_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_plaxen_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_plaxen_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_plaxen_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_pwyni_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z13
+	}
+	free = yes
+
+	zemia_pwyni_idea_generals_legacy = {
+		development_cost = -0.1
+	}
+	zemia_pwyni_idea_mainstay_of_equality = {
+		build_cost = -0.1
+	}
+	zemia_pwyni_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_pwyni_idea_the_power_of_the_individual = {
+		prestige = 1
+	}
+	zemia_pwyni_idea_zycies_guidance = {
+		discipline = 0.025
+	}
+	zemia_pwyni_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_pwyni_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_puestyn_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z14
+	}
+	free = yes
+
+	zemia_puestyn_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_puestyn_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_puestyn_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_puestyn_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_puestyn_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_puestyn_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_puestyn_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_privrmeti_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z15
+	}
+	free = yes
+
+	zemia_privrmeti_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_privrmeti_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_privrmeti_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_privrmeti_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_privrmeti_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_privrmeti_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_privrmeti_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_sabikevi_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z16
+	}
+	free = yes
+
+	zemia_sabikevi_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_sabikevi_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_sabikevi_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_sabikevi_idea_remnants_of_the_orthodoxy = {
+		prestige = 1
+	}
+	zemia_sabikevi_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_sabikevi_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_sabikevi_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_truga_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z17
+	}
+	free = yes
+
+	zemia_truga_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_truga_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_truga_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_truga_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_truga_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_truga_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_truga_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_united_republic_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z18
+	}
+	free = yes
+
+	zemia_united_republic_idea_megaflora = {
+		development_cost = -0.1
+	}
+	zemia_united_republic_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_united_republic_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_united_republic_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_united_republic_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_united_republic_idea_lessons_from_khamukas = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_united_republic_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_west_pemer_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z19
+	}
+	free = yes
+
+	zemia_west_pemer_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_west_pemer_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_west_pemer_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_west_pemer_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_west_pemer_idea_pravos_guidance = {
+		discipline = 0.025
+	}
+	zemia_west_pemer_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_west_pemer_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_zabeshi_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z20
+	}
+	free = yes
+
+	zemia_zabeshi_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_zabeshi_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_zabeshi_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_zabeshi_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_zabeshi_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_zabeshi_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_zabeshi_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_zhy_saba_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z21
+	}
+	free = yes
+
+	zemia_zhy_saba_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_zhy_saba_idea_scavenged_supplies = {
+		build_cost = -0.1
+	}
+	zemia_zhy_saba_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_zhy_saba_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_zhy_saba_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_zhy_saba_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_zhy_saba_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_midborne_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z22
+	}
+	free = yes
+
+	zemia_midborne_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_midborne_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_midborne_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_midborne_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_midborne_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_midborne_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_midborne_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_deltan_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z23
+	}
+	free = yes
+
+	zemia_deltan_idea_frontiers_and_unincorporated_territories = {
+		development_cost = -0.1
+	}
+	zemia_deltan_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_deltan_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_deltan_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_deltan_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_deltan_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_deltan_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_sasheami_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z24
+	}
+	free = yes
+
+	zemia_sasheami_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_sasheami_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_sasheami_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_sasheami_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_sasheami_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_sasheami_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_sasheami_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_pilmyeho_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z25
+	}
+	free = yes
+
+	zemia_pilmyeho_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_pilmyeho_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_pilmyeho_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_pilmyeho_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_pilmyeho_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_pilmyeho_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_pilmyeho_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_murtiami_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z26
+	}
+	free = yes
+
+	zemia_murtiami_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_murtiami_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_murtiami_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_murtiami_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_murtiami_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_murtiami_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_murtiami_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_river_federation_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z27
+	}
+	free = yes
+
+	zemia_river_federation_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_river_federation_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_river_federation_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_river_federation_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_river_federation_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_river_federation_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_river_federation_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
+zemia_nyabu_idea = {
+	start = {
+		global_unrest = -1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		global_trade_power = 0.15
+	}
+
+	trigger = {
+		tag = Z28
+	}
+	free = yes
+
+	zemia_nyabu_idea_idea_1 = {
+		development_cost = -0.1
+	}
+	zemia_nyabu_idea_idea_2 = {
+		build_cost = -0.1
+	}
+	zemia_nyabu_idea_idea_3 = {
+		global_heretic_missionary_strength = 0.02
+	}
+	zemia_nyabu_idea_idea_4 = {
+		prestige = 1
+	}
+	zemia_nyabu_idea_idea_5 = {
+		discipline = 0.025
+	}
+	zemia_nyabu_idea_idea_6 = {
+		leader_naval_shock = 1
+		naval_morale = 0.15
+	}
+	zemia_nyabu_idea_idea_7 = {
+		production_efficiency = 0.1
+	}
+}
