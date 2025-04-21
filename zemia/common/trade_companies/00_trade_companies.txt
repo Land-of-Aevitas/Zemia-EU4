@@ -1,154 +1,158 @@
-island_trade_company = {
-	color = {50 64 168}
+batsuri_trade_company = {
+	color = {241 190 160}
 	provinces = {
-		15	23	35	36	37
-		38	39	40	46	47
-		48	49	50	51	52
-		53	54	55	56	57
-		58	59	60	61	62
+		2	3	4	5	6
+		7	8	9	10	11
+		12	13	14	15	16
+		17
 	}
 	names = {
-		name = island_trade_company_0
+		name = batsuri_trade_company_0
 	}
 	names = {
-		name = island_trade_company_1
+		name = batsuri_trade_company_1
 	}
 }
-sylvan_trade_company = {
-	color = {12 138 73}
+greater_fei_trade_company = {
+	color = {95 169 32}
 	provinces = {
-		1	2	3	4	5
-		6	7	8	9	10
-		11	12	13	14	16
-		17	18	19	20	21
-		22	24	25	26	27
-		28	29	30	31	32
-		33	34	41	42	43
-		44	45	241
+		19	20	21	22	23
+		27	47	48	49	61
+		63	64	65	66	67
+		68	69	72	73
 	}
 	names = {
-		name = sylvan_trade_company_0
+		name = greater_fei_trade_company_0
 	}
 	names = {
-		name = sylvan_trade_company_1
+		name = greater_fei_trade_company_1
 	}
 }
-orcfields_trade_company = {
-	color = {102 161 43}
+east_bank_trade_company = {
+	color = {52 34 29}
 	provinces = {
-		168	169	170	193	195
-		205	206	207	208	209
-		210	211	212	213	221
-		222	223	224	225	226
-		227	228	229	230
+		50	71	74	75	76
+		77	78	79	80
 	}
 	names = {
-		name = orcfields_trade_company_0
+		name = east_bank_trade_company_0
 	}
 	names = {
-		name = orcfields_trade_company_1
+		name = east_bank_trade_company_1
 	}
 }
-epic_gamer_trade_company = {
-	color = {252 237 162}
+lost_forest_trade_company = {
+	color = {56 13 171}
 	provinces = {
-		171	172	173	174	175
-		176	177	178	179	180
-		181	182	183	184	185
-		186	187	188	189	190
-		191	192	194
+		18	32	33	34	35
+		36	37	39	44	45
 	}
 	names = {
-		name = epic_gamer_trade_company_0
+		name = lost_forest_trade_company_0
 	}
 	names = {
-		name = epic_gamer_trade_company_1
+		name = lost_forest_trade_company_1
 	}
 }
-homeland_trade_company = {
-	color = {166 164 164}
+puestyn_proper_trade_company = {
+	color = {6 108 83}
 	provinces = {
-		164	165	166	167	196
-		197	198	202	203	204
-		214	215	216	217	218
-		219	220	231	232	233
-		234	235	236	237	238
-		239	240
+		220	221	222	223	230
+		231	233	234	235	236
+		237	238	239	240	241
 	}
 	names = {
-		name = homeland_trade_company_0
+		name = puestyn_proper_trade_company_0
 	}
 	names = {
-		name = homeland_trade_company_1
+		name = puestyn_proper_trade_company_1
 	}
 }
-falconmar_trade_company = {
-	color = {174 219 110}
+orclands_trade_company = {
+	color = {90 3 71}
 	provinces = {
-		67	68	69	70	71
-		81	82	83	84	85
-		86	87	101	102	103
-		106	107	163	199	200
-		201	242
+		177	198	211	212	213
+		215	216	217	218	219
 	}
 	names = {
-		name = falconmar_trade_company_0
+		name = orclands_trade_company_0
 	}
 	names = {
-		name = falconmar_trade_company_1
+		name = orclands_trade_company_1
 	}
 }
-shufmibu_trade_company = {
-	color = {129 53 130}
+skdeti_trade_company = {
+	color = {84 194 193}
 	provinces = {
-		72	73	74	79	80
-		88	89	90	96	97
-		98	99	100	108	109
-		115	243
+		199	200	201	209	210
 	}
 	names = {
-		name = shufmibu_trade_company_0
+		name = skdeti_trade_company_0
 	}
 	names = {
-		name = shufmibu_trade_company_1
+		name = skdeti_trade_company_1
 	}
 }
-swamps_trade_company = {
-	color = {107 75 1}
+great_eel_trade_company = {
+	color = {209 237 224}
 	provinces = {
-		126	127	128	138	139
-		140	141	142	143	159
-		160	161	162
+		191	193	194	195	196
+		197	207	208
 	}
 	names = {
-		name = swamps_trade_company_0
+		name = great_eel_trade_company_0
 	}
 	names = {
-		name = swamps_trade_company_1
+		name = great_eel_trade_company_1
 	}
 }
-forlorn_trade_company = {
-	color = {83 87 85}
+cradle_trade_company = {
+	color = {120 154 207}
 	provinces = {
-		144	145	146	147	148
-		149	150	151	152	153
-		154	155	156	157	158
+		187	188	189	190	192
+		206
 	}
 	names = {
-		name = forlorn_trade_company_0
+		name = cradle_trade_company_0
 	}
 	names = {
-		name = forlorn_trade_company_1
+		name = cradle_trade_company_1
+	}
+}
+krengo_range_trade_company = {
+	color = {48 8 77}
+	provinces = {
+		143	175	176	178	179
+		180	181	182	183	184
+		185	214
+	}
+	names = {
+		name = krengo_range_trade_company_0
+	}
+	names = {
+		name = krengo_range_trade_company_1
+	}
+}
+grasslands_trade_company = {
+	color = {78 139 139}
+	provinces = {
+		81	82	99	164	165
+		166	168	169	186	202
+		203	204	205	242	243
+		244	245
+	}
+	names = {
+		name = grasslands_trade_company_0
+	}
+	names = {
+		name = grasslands_trade_company_1
 	}
 }
 seven_lakes_trade_company = {
-	color = {54 149 186}
+	color = {44 27 223}
 	provinces = {
-		104	105	116	117	118
-		119	120	121	122	123
-		124	129	130	131	132
-		133	134	135	136	137
-		104
+		147	149	162	163	167
+		170	171	172	173	174
 	}
 	names = {
 		name = seven_lakes_trade_company_0
@@ -157,29 +161,431 @@ seven_lakes_trade_company = {
 		name = seven_lakes_trade_company_1
 	}
 }
-deltan_trade_company = {
-	color = {71 85 120}
+greater_deschov_trade_company = {
+	color = {43 174 249}
 	provinces = {
-		63	64	65	66
+		129	130	133	134	135
+		142	146	148
 	}
 	names = {
-		name = deltan_trade_company_0
+		name = greater_deschov_trade_company_0
 	}
 	names = {
-		name = deltan_trade_company_1
+		name = greater_deschov_trade_company_1
 	}
 }
-puzhna_trade_company = {
-	color = {252 201 126}
+truga_jungle_trade_company = {
+	color = {198 2 112}
 	provinces = {
-		75	76	77	78	91
-		92	93	94	95	110
-		111	112	113	114	125
+		138	141	144	145
 	}
 	names = {
-		name = puzhna_trade_company_0
+		name = truga_jungle_trade_company_0
 	}
 	names = {
-		name = puzhna_trade_company_1
+		name = truga_jungle_trade_company_1
+	}
+}
+forlorn_lands_trade_company = {
+	color = {101 90 192}
+	provinces = {
+		137	139	140
+	}
+	names = {
+		name = forlorn_lands_trade_company_0
+	}
+	names = {
+		name = forlorn_lands_trade_company_1
+	}
+}
+swamplands_trade_company = {
+	color = {166 151 205}
+	provinces = {
+		120	121	122	123	124
+		125	126	127	128	131
+		132	136
+	}
+	names = {
+		name = swamplands_trade_company_0
+	}
+	names = {
+		name = swamplands_trade_company_1
+	}
+}
+plaksen_trade_company = {
+	color = {87 24 173}
+	provinces = {
+		85	86	87	88	89
+		90	91	92	93	94
+		95	96	97	98	100
+		101	102	103	104	105
+		106	107	108	109	110
+		160	161
+	}
+	names = {
+		name = plaksen_trade_company_0
+	}
+	names = {
+		name = plaksen_trade_company_1
+	}
+}
+auralight_trade_company = {
+	color = {103 233 54}
+	provinces = {
+		111	112	113	114	115
+		116	117	118	119
+	}
+	names = {
+		name = auralight_trade_company_0
+	}
+	names = {
+		name = auralight_trade_company_1
+	}
+}
+merchants_woe_trade_company = {
+	color = {196 51 106}
+	provinces = {
+		150
+	}
+	names = {
+		name = merchants_woe_trade_company_0
+	}
+	names = {
+		name = merchants_woe_trade_company_1
+	}
+}
+beyond_aurora_trade_company = {
+	color = {221 108 214}
+	provinces = {
+		155	156	157	158	159
+	}
+	names = {
+		name = beyond_aurora_trade_company_0
+	}
+	names = {
+		name = beyond_aurora_trade_company_1
+	}
+}
+island_of_our_souls_trade_company = {
+	color = {62 89 52}
+	provinces = {
+		284	285	286	287	288
+		289	290
+	}
+	names = {
+		name = island_of_our_souls_trade_company_0
+	}
+	names = {
+		name = island_of_our_souls_trade_company_1
+	}
+}
+islands_trade_company = {
+	color = {53 65 194}
+	provinces = {
+		291	292	293	294	295
+	}
+	names = {
+		name = islands_trade_company_0
+	}
+	names = {
+		name = islands_trade_company_1
+	}
+}
+far_west_sedes_trade_company = {
+	color = {29 242 126}
+	provinces = {
+		296	297	298	299
+	}
+	names = {
+		name = far_west_sedes_trade_company_0
+	}
+	names = {
+		name = far_west_sedes_trade_company_1
+	}
+}
+madlands_trade_company = {
+	color = {181 33 214}
+	provinces = {
+		308	309	310	332
+	}
+	names = {
+		name = madlands_trade_company_0
+	}
+	names = {
+		name = madlands_trade_company_1
+	}
+}
+inner_sedes_trade_company = {
+	color = {32 236 68}
+	provinces = {
+		300	306	311	312	313
+		314	317
+	}
+	names = {
+		name = inner_sedes_trade_company_0
+	}
+	names = {
+		name = inner_sedes_trade_company_1
+	}
+}
+sliveria_trade_company = {
+	color = {233 71 84}
+	provinces = {
+		301	302	307	316
+	}
+	names = {
+		name = sliveria_trade_company_0
+	}
+	names = {
+		name = sliveria_trade_company_1
+	}
+}
+dizhairakah_trade_company = {
+	color = {230 10 110}
+	provinces = {
+		324	326	331	333	334
+		335
+	}
+	names = {
+		name = dizhairakah_trade_company_0
+	}
+	names = {
+		name = dizhairakah_trade_company_1
+	}
+}
+east_partisan_trade_company = {
+	color = {135 118 107}
+	provinces = {
+		320	321	322	323	325
+		328
+	}
+	names = {
+		name = east_partisan_trade_company_0
+	}
+	names = {
+		name = east_partisan_trade_company_1
+	}
+}
+foglands_trade_company = {
+	color = {39 0 121}
+	provinces = {
+		305	315	318	319	330
+	}
+	names = {
+		name = foglands_trade_company_0
+	}
+	names = {
+		name = foglands_trade_company_1
+	}
+}
+frosian_foglands_trade_company = {
+	color = {250 255 141}
+	provinces = {
+		303	327	329
+	}
+	names = {
+		name = frosian_foglands_trade_company_0
+	}
+	names = {
+		name = frosian_foglands_trade_company_1
+	}
+}
+xinmai_trade_company = {
+	color = {126 108 241}
+	provinces = {
+		336	337	338	340	342
+		343	344	345	346
+	}
+	names = {
+		name = xinmai_trade_company_0
+	}
+	names = {
+		name = xinmai_trade_company_1
+	}
+}
+cocchua_trade_company = {
+	color = {149 178 216}
+	provinces = {
+		347	349	350	351	352
+		353	354	355	356	357
+	}
+	names = {
+		name = cocchua_trade_company_0
+	}
+	names = {
+		name = cocchua_trade_company_1
+	}
+}
+scarlands_trade_company = {
+	color = {71 228 175}
+	provinces = {
+		339	348	358	359	360
+		361
+	}
+	names = {
+		name = scarlands_trade_company_0
+	}
+	names = {
+		name = scarlands_trade_company_1
+	}
+}
+midlands_trade_company = {
+	color = {76 99 202}
+	provinces = {
+		341	830
+	}
+	names = {
+		name = midlands_trade_company_0
+	}
+	names = {
+		name = midlands_trade_company_1
+	}
+}
+frostheart_trade_company = {
+	color = {226 189 20}
+	provinces = {
+		304
+	}
+	names = {
+		name = frostheart_trade_company_0
+	}
+	names = {
+		name = frostheart_trade_company_1
+	}
+}
+the_expanse_trade_company = {
+	color = {164 194 247}
+	provinces = {
+		362
+	}
+	names = {
+		name = the_expanse_trade_company_0
+	}
+	names = {
+		name = the_expanse_trade_company_1
+	}
+}
+renkaldia_trade_company = {
+	color = {179 81 216}
+	provinces = {
+		366	370	371
+	}
+	names = {
+		name = renkaldia_trade_company_0
+	}
+	names = {
+		name = renkaldia_trade_company_1
+	}
+}
+ploskon_trade_company = {
+	color = {106 40 221}
+	provinces = {
+		365	367	368	369
+	}
+	names = {
+		name = ploskon_trade_company_0
+	}
+	names = {
+		name = ploskon_trade_company_1
+	}
+}
+wiltrel_trade_company = {
+	color = {46 154 77}
+	provinces = {
+		372	373	374	377	378
+		379	380	381	382	383
+		384
+	}
+	names = {
+		name = wiltrel_trade_company_0
+	}
+	names = {
+		name = wiltrel_trade_company_1
+	}
+}
+svelch_trade_company = {
+	color = {211 92 96}
+	provinces = {
+		375	376	385	386	387
+		388	389
+	}
+	names = {
+		name = svelch_trade_company_0
+	}
+	names = {
+		name = svelch_trade_company_1
+	}
+}
+thundergrowth_trade_company = {
+	color = {135 186 70}
+	provinces = {
+		390	394	395	396
+	}
+	names = {
+		name = thundergrowth_trade_company_0
+	}
+	names = {
+		name = thundergrowth_trade_company_1
+	}
+}
+scyllia_trade_company = {
+	color = {66 171 185}
+	provinces = {
+		363	364
+	}
+	names = {
+		name = scyllia_trade_company_0
+	}
+	names = {
+		name = scyllia_trade_company_1
+	}
+}
+whemaydan_trade_company = {
+	color = {106 53 131}
+	provinces = {
+		397	398	399	400	401
+		402	403	404	405	406
+		407	408
+	}
+	names = {
+		name = whemaydan_trade_company_0
+	}
+	names = {
+		name = whemaydan_trade_company_1
+	}
+}
+riptide_trade_company = {
+	color = {243 58 69}
+	provinces = {
+		391	392	393
+	}
+	names = {
+		name = riptide_trade_company_0
+	}
+	names = {
+		name = riptide_trade_company_1
+	}
+}
+borne_trade_company = {
+	color = {240 175 208}
+	provinces = {
+		409	410	411
+	}
+	names = {
+		name = borne_trade_company_0
+	}
+	names = {
+		name = borne_trade_company_1
+	}
+}
+???_trade_company = {
+	color = {245 110 43}
+	provinces = {
+	}
+	names = {
+		name = ???_trade_company_0
+	}
+	names = {
+		name = ???_trade_company_1
 	}
 }

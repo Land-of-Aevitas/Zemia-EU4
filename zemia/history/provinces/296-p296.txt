@@ -1,0 +1,20 @@
+# 296 - P296
+
+discovered_by = islander_tech_group
+discovered_by = western_tech_group
+discovered_by = eastern_tech_group
+discovered_by = monster_tech_group
+discovered_by = duegar_tech_group
+discovered_by = northern_tech_group
+discovered_by = delta_tech_group
+owner = Z11
+controller = Z11
+add_core = Z11
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+hre = no
+religion = meyopam_religion
+capital = "P296"
+trade_goods = grain

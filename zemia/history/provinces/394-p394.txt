@@ -1,0 +1,20 @@
+# 394 - P394
+
+discovered_by = islander_tech_group
+discovered_by = western_tech_group
+discovered_by = eastern_tech_group
+discovered_by = monster_tech_group
+discovered_by = duegar_tech_group
+discovered_by = northern_tech_group
+discovered_by = delta_tech_group
+owner = Z20
+controller = Z20
+add_core = Z20
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+hre = no
+religion = meyopam_religion
+capital = "P394"
+trade_goods = grain

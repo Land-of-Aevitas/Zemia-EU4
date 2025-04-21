@@ -17,5 +17,6 @@ replace_path="gfx/loadingscreens"
 replace_path="history/countries"
 replace_path="history/provinces"
 replace_path="missions"
+replace_path="common/cultures"
 
 path="mod/zemia"

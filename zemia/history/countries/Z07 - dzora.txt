@@ -1,7 +1,7 @@
 # Dzora
 government = monarchy
 government_rank = 2
-capital = 168
+capital = 111
 add_government_reform = feudalism_reform
 technology_group = monster_tech_group
 primary_culture = decayed_culture

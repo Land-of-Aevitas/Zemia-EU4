@@ -1,0 +1,21 @@
+# 97 - X
+
+discovered_by = islander_tech_group
+discovered_by = western_tech_group
+discovered_by = eastern_tech_group
+discovered_by = monster_tech_group
+discovered_by = duegar_tech_group
+discovered_by = northern_tech_group
+discovered_by = delta_tech_group
+owner = Z04
+controller = Z04
+add_core = Z04
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+hre = no
+culture = yopciweta_culture
+religion = meyopam_religion
+capital = "X"
+trade_goods = grain

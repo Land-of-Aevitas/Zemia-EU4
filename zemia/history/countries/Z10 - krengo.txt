@@ -1,7 +1,7 @@
 # Krengo
 government = monarchy
 government_rank = 2
-capital = 230
+capital = 284
 add_government_reform = feudalism_reform
 technology_group = duegar_tech_group
 primary_culture = highlands_culture

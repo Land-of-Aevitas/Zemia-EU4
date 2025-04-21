@@ -1,7 +1,7 @@
 # Deltan
 government = monarchy
 government_rank = 2
-capital = 64
+capital = 1
 add_government_reform = feudalism_reform
 technology_group = delta_tech_group
 primary_culture = oursoulian_culture

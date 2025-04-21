@@ -1,7 +1,7 @@
 # Fei
 government = monarchy
 government_rank = 2
-capital = 33
+capital = 137
 add_government_reform = feudalism_reform
 technology_group = islander_tech_group
 primary_culture = shiruban_culture

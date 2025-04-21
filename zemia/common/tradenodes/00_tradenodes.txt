@@ -1,205 +1,553 @@
-the_isles_node = {
-	location = 59
-	color = {50 64 168}
+batsuri_node = {
+	location = 10
+	color = {241 190 160}
 	outgoing = {
-		name = "falconmar_node"
-		control = {
-		}
-	}
-	outgoing = {
-		name = "deltan_node"
+		name = "greater_fei_node"
 		control = {
 		}
 	}
 	members = {
-		15	23	35	36	37
-		38	39	40	46	47
-		48	49	50	51	52
-		53	54	55	56	57
-		58	59	60	61	62
+		2	3	4	5	6
+		7	8	9	10	11
+		12	13	14	15	16
+		17
 	}
 }
-sylvan_tribes_node = {
-	location = 3
-	color = {12 138 73}
+greater_fei_node = {
+	location = 63
+	color = {95 169 32}
 	outgoing = {
-		name = "the_isles_node"
-		control = {
-		}
-	}
-	outgoing = {
-		name = "homeland_node"
+		name = "cradle_node"
 		control = {
 		}
 	}
 	members = {
-		1	2	3	4	5
-		6	7	8	9	10
-		11	12	13	14	16
-		17	18	19	20	21
-		22	24	25	26	27
-		28	29	30	31	32
-		33	34	41	42	43
-		44	45	241
+		19	20	21	22	23
+		27	47	48	49	61
+		63	64	65	66	67
+		68	69	72	73
 	}
 }
-orcfields_node = {
-	location = 229
-	color = {102 161 43}
+east_bank_node = {
+	location = 80
+	color = {52 34 29}
 	outgoing = {
-		name = "homeland_node"
+		name = "greater_fei_node"
 		control = {
 		}
 	}
 	members = {
-		168	169	170	193	195
-		205	206	207	208	209
-		210	211	212	213	221
-		222	223	224	225	226
-		227	228	229	230
+		50	71	74	75	76
+		77	78	79	80
 	}
 }
-epic_gamer_node_node = {
-	location = 188
-	color = {252 237 162}
+lost_forest_node = {
+	location = 45
+	color = {56 13 171}
 	outgoing = {
-		name = "orcfields_node"
+		name = "east_bank_node"
 		control = {
 		}
 	}
 	members = {
-		171	172	173	174	175
-		176	177	178	179	180
-		181	182	183	184	185
-		186	187	188	189	190
-		191	192	194
+		18	32	33	34	35
+		36	37	39	44	45
 	}
 }
-homeland_node = {
-	location = 166
-	color = {166 164 164}
+puestyn_proper_node = {
+	location = 221
+	color = {6 108 83}
 	outgoing = {
-		name = "falconmar_node"
+		name = "unknown_node"
 		control = {
 		}
 	}
 	members = {
-		164	165	166	167	196
-		197	198	202	203	204
-		214	215	216	217	218
-		219	220	231	232	233
-		234	235	236	237	238
-		239	240
+		220	221	222	223	230
+		231	233	234	235	236
+		237	238	239	240	241
 	}
 }
-falconmar_node = {
-	location = 106
-	color = {174 219 110}
+orclands_node = {
+	location = 211
+	color = {90 3 71}
 	outgoing = {
-		name = "shufmibu_node"
+		name = "puestyn_proper_node"
 		control = {
 		}
 	}
 	members = {
-		67	68	69	70	71
-		81	82	83	84	85
-		86	87	101	102	103
-		106	107	163	199	200
-		201	242
+		177	198	211	212	213
+		215	216	217	218	219
 	}
 }
-shufmibu_node = {
-	location = 115
-	color = {129 53 130}
+skdeti_node = {
+	location = 200
+	color = {84 194 193}
+	outgoing = {
+		name = "great_eel_node"
+		control = {
+		}
+	}
 	members = {
-		72	73	74	79	80
-		88	89	90	96	97
-		98	99	100	108	109
-		115	243
+		199	200	201	209	210
 	}
 }
-swamps_node = {
-	location = 142
-	color = {107 75 1}
-	outgoing = {
-		name = "shufmibu_node"
-		control = {
-		}
-	}
-	outgoing = {
-		name = "forlorn_node"
-		control = {
-		}
-	}
-	outgoing = {
-		name = "puzhna_node"
-		control = {
-		}
-	}
+great_eel_node = {
+	location = 191
+	color = {209 237 224}
 	members = {
-		126	127	128	138	139
-		140	141	142	143	159
-		160	161	162
+		191	193	194	195	196
+		197	207	208
 	}
 }
-forlorn_node = {
-	location = 149
-	color = {83 87 85}
+cradle_node = {
+	location = 189
+	color = {120 154 207}
 	outgoing = {
-		name = "seven_lakes_node"
+		name = "grasslands_node"
 		control = {
 		}
 	}
 	members = {
-		144	145	146	147	148
-		149	150	151	152	153
-		154	155	156	157	158
+		187	188	189	190	192
+		206
+	}
+}
+krengo_range_node = {
+	location = 184
+	color = {48 8 77}
+	outgoing = {
+		name = "greater_deschov_node"
+		control = {
+		}
+	}
+	members = {
+		143	175	176	178	179
+		180	181	182	183	184
+		185	214
+	}
+}
+grasslands_node = {
+	location = 186
+	color = {78 139 139}
+	members = {
+		81	82	99	164	165
+		166	168	169	186	202
+		203	204	205	242	243
+		244	245
 	}
 }
 seven_lakes_node = {
-	location = 118
-	color = {54 149 186}
+	location = 173
+	color = {44 27 223}
 	outgoing = {
-		name = "falconmar_node"
-		control = {
-		}
-	}
-	outgoing = {
-		name = "shufmibu_node"
+		name = "grasslands_node"
 		control = {
 		}
 	}
 	members = {
-		104	105	116	117	118
-		119	120	121	122	123
-		124	129	130	131	132
-		133	134	135	136	137
-		104
+		147	149	162	163	167
+		170	171	172	173	174
 	}
 }
-deltan_node = {
-	location = 64
-	color = {71 85 120}
-	members = {
-		63	64	65	66
-	}
-}
-puzhna_node = {
-	location = 95
-	color = {252 201 126}
+greater_deschov_node = {
+	location = 135
+	color = {43 174 249}
 	outgoing = {
 		name = "seven_lakes_node"
 		control = {
 		}
 	}
+	members = {
+		129	130	133	134	135
+		142	146	148
+	}
+}
+truga_jungle_node = {
+	location = 141
+	color = {198 2 112}
 	outgoing = {
-		name = "shufmibu_node"
+		name = "greater_deschov_node"
 		control = {
 		}
 	}
 	members = {
-		75	76	77	78	91
-		92	93	94	95	110
-		111	112	113	114	125
+		138	141	144	145
+	}
+}
+forlorn_lands_node = {
+	location = 139
+	color = {101 90 192}
+	outgoing = {
+		name = "greater_deschov_node"
+		control = {
+		}
+	}
+	members = {
+		137	139	140
+	}
+}
+swamplands_node = {
+	location = 126
+	color = {166 151 205}
+	outgoing = {
+		name = "auralight_node"
+		control = {
+		}
+	}
+	members = {
+		120	121	122	123	124
+		125	126	127	128	131
+		132	136
+	}
+}
+plaksen_node = {
+	location = 87
+	color = {87 24 173}
+	outgoing = {
+		name = "grasslands_node"
+		control = {
+		}
+	}
+	members = {
+		85	86	87	88	89
+		90	91	92	93	94
+		95	96	97	98	100
+		101	102	103	104	105
+		106	107	108	109	110
+		160	161
+	}
+}
+auralight_node = {
+	location = 116
+	color = {103 233 54}
+	outgoing = {
+		name = "plaksen_node"
+		control = {
+		}
+	}
+	members = {
+		111	112	113	114	115
+		116	117	118	119
+	}
+}
+merchants_woe_node = {
+	location = 150
+	color = {196 51 106}
+	outgoing = {
+		name = "auralight_node"
+		control = {
+		}
+	}
+	members = {
+		150
+	}
+}
+beyond_aurora_node = {
+	location = 157
+	color = {221 108 214}
+	members = {
+		155	156	157	158	159
+	}
+}
+island_of_our_souls_node = {
+	location = 290
+	color = {62 89 52}
+	outgoing = {
+		name = "islands_node"
+		control = {
+		}
+	}
+	members = {
+		284	285	286	287	288
+		289	290
+	}
+}
+islands_node = {
+	location = 292
+	color = {53 65 194}
+	outgoing = {
+		name = "far_west_sedes_node"
+		control = {
+		}
+	}
+	members = {
+		291	292	293	294	295
+	}
+}
+far_west_sedes_node = {
+	location = 297
+	color = {29 242 126}
+	members = {
+		296	297	298	299
+	}
+}
+madlands_node = {
+	location = 308
+	color = {181 33 214}
+	outgoing = {
+		name = "far_west_sedes_node"
+		control = {
+		}
+	}
+	members = {
+		308	309	310	332
+	}
+}
+inner_sedes_node = {
+	location = 313
+	color = {32 236 68}
+	outgoing = {
+		name = "far_west_sedes_node"
+		control = {
+		}
+	}
+	members = {
+		300	306	311	312	313
+		314	317
+	}
+}
+sliveria_node = {
+	location = 307
+	color = {233 71 84}
+	outgoing = {
+		name = "inner_sedes_node"
+		control = {
+		}
+	}
+	members = {
+		301	302	307	316
+	}
+}
+dizhairakah_node = {
+	location = 333
+	color = {230 10 110}
+	members = {
+		324	326	331	333	334
+		335
+	}
+}
+east_partisan_node = {
+	location = 323
+	color = {135 118 107}
+	outgoing = {
+		name = "sliveria_node"
+		control = {
+		}
+	}
+	members = {
+		320	321	322	323	325
+		328
+	}
+}
+foglands_node = {
+	location = 319
+	color = {39 0 121}
+	outgoing = {
+		name = "sliveria_node"
+		control = {
+		}
+	}
+	members = {
+		305	315	318	319	330
+	}
+}
+frosian_foglands_node = {
+	location = 327
+	color = {250 255 141}
+	outgoing = {
+		name = "frostheart_node"
+		control = {
+		}
+	}
+	members = {
+		303	327	329
+	}
+}
+xinmai_node = {
+	location = 338
+	color = {126 108 241}
+	outgoing = {
+		name = "dizhairakah_node"
+		control = {
+		}
+	}
+	members = {
+		336	337	338	340	342
+		343	344	345	346
+	}
+}
+cocchua_node = {
+	location = 356
+	color = {149 178 216}
+	outgoing = {
+		name = "xinmai_node"
+		control = {
+		}
+	}
+	members = {
+		347	349	350	351	352
+		353	354	355	356	357
+	}
+}
+scarlands_node = {
+	location = 348
+	color = {71 228 175}
+	outgoing = {
+		name = "xinmai_node"
+		control = {
+		}
+	}
+	members = {
+		339	348	358	359	360
+		361
+	}
+}
+midlands_node = {
+	location = 341
+	color = {76 99 202}
+	outgoing = {
+		name = "frostheart_node"
+		control = {
+		}
+	}
+	members = {
+		341	830
+	}
+}
+frostheart_node = {
+	location = 304
+	color = {226 189 20}
+	members = {
+		304
+	}
+}
+the_expanse_node = {
+	location = 362
+	color = {164 194 247}
+	outgoing = {
+		name = "frostheart_node"
+		control = {
+		}
+	}
+	members = {
+		362
+	}
+}
+renkaldia_node = {
+	location = 370
+	color = {179 81 216}
+	outgoing = {
+		name = "wiltrel_node"
+		control = {
+		}
+	}
+	members = {
+		366	370	371
+	}
+}
+ploskon_node = {
+	location = 365
+	color = {106 40 221}
+	outgoing = {
+		name = "wiltrel_node"
+		control = {
+		}
+	}
+	members = {
+		365	367	368	369
+	}
+}
+wiltrel_node = {
+	location = 378
+	color = {46 154 77}
+	outgoing = {
+		name = "svelch_node"
+		control = {
+		}
+	}
+	members = {
+		372	373	374	377	378
+		379	380	381	382	383
+		384
+	}
+}
+svelch_node = {
+	location = 385
+	color = {211 92 96}
+	members = {
+		375	376	385	386	387
+		388	389
+	}
+}
+thundergrowth_node = {
+	location = 394
+	color = {135 186 70}
+	outgoing = {
+		name = "wiltrel_node"
+		control = {
+		}
+	}
+	members = {
+		390	394	395	396
+	}
+}
+scyllia_node = {
+	location = 363
+	color = {66 171 185}
+	outgoing = {
+		name = "scarlands_node"
+		control = {
+		}
+	}
+	members = {
+		363	364
+	}
+}
+whemaydan_node = {
+	location = 400
+	color = {106 53 131}
+	outgoing = {
+		name = "scyllia_node"
+		control = {
+		}
+	}
+	members = {
+		397	398	399	400	401
+		402	403	404	405	406
+		407	408
+	}
+}
+riptide_node = {
+	location = 391
+	color = {243 58 69}
+	outgoing = {
+		name = "thundergrowth_node"
+		control = {
+		}
+	}
+	members = {
+		391	392	393
+	}
+}
+borne_node = {
+	location = 411
+	color = {240 175 208}
+	outgoing = {
+		name = "whemaydan_node"
+		control = {
+		}
+	}
+	members = {
+		409	410	411
+	}
+}
+unknown_node = {
+	location = 227
+	color = {245 110 43}
+	members = {
+		224	225	226	227	228
+		229	232
 	}
 }

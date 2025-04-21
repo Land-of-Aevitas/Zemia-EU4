@@ -1,173 +1,346 @@
-lost_forest_region = {
+wasteland_region = {
 	areas = {
-		a1_area
-		a2_area
-		a3_area
-		a4_area
-		a5_area
-		a6_area
-	}
-}
-greater_fei_region = {
-	areas = {
-		a7_area
-		a8_area
-		a9_area
-		a10_area
-		a14_area
-	}
-}
-east_bank_region = {
-	areas = {
-		a11_area
-		a12_area
-		a13_area
+		wasteland_area
 	}
 }
 batsuri_region = {
 	areas = {
-		a15_area
+		zhknami_area
+		nykrachu_area
+		sabiami_west_area
+		sabiami_east_area
+	}
+}
+greater_fei_region = {
+	areas = {
+		lower_fei_south_area
+		lower_fei_north_area
+		upper_fei_south_area
+		upper_fei_north_area
+		lost_forest_1_area
+	}
+}
+east_bank_region = {
+	areas = {
+		upper_sylvan_plains_area
+		lower_sylvan_plains_area
+	}
+}
+lost_forest_region = {
+	areas = {
+		outposts_area
+		lost_forest_2_area
+		lost_forest_3_area
+		lost_forest_4_area
+	}
+}
+puestyn_proper_region = {
+	areas = {
 		a16_area
 		a17_area
 		a18_area
 	}
 }
-r5_region = {
+orclands_region = {
 	areas = {
-		a54_area
-		a55_area
-		a56_area
+		a19_area
+		a20_area
+		a23_area
 	}
 }
-puestyn_region = {
+skdeti_region = {
 	areas = {
-		a52_area
-		a53_area
-		a57_area
+		a21_area
+		a22_area
 	}
 }
-east_orclands_region = {
+great_eel_region = {
 	areas = {
-		a58_area
-		a67_area
-		a68_area
-	}
-}
-west_orclands_region = {
-	areas = {
-		lost_city_2_area
-		a59_area
-		a60_area
+		a24_area
+		a25_area
+		a26_area
 	}
 }
 cradle_region = {
 	areas = {
-		a48_area
-		a49_area
-		a50_area
-		a61_area
-		a63_area
+		a29_area
+		a30_area
 	}
 }
 krengo_range_region = {
 	areas = {
-		a62_area
-		a64_area
-		a65_area
-		a66_area
+		a27_area
+		a28_area
+		a31_area
 	}
 }
 grasslands_region = {
 	areas = {
-		a21_area
-		a22_area
-		a30_area
-		a31_area
 		a32_area
-		a47_area
+		a33_area
+		a37_area
+		a42_area
 	}
 }
-midlands_region = {
+seven_lakes_region = {
 	areas = {
-		a33_area
 		a34_area
-		a35_area
+		a38_area
 		a39_area
+	}
+}
+greater_deschov_region = {
+	areas = {
 		kryawdenyi_hills_area
+		a40_area
+	}
+}
+truga_jungle_region = {
+	areas = {
+		a36_area
 	}
 }
 forlorn_lands_region = {
 	areas = {
 		a41_area
-		lost_city_1_area
-		a43_area
-	}
-}
-truga_jungle_region = {
-	areas = {
-		western_truga_area
-	}
-}
-plaksen_region = {
-	areas = {
-		a23_area
-		a24_area
-		a28_area
-		a29_area
-	}
-}
-auralight_region = {
-	areas = {
-		a25_area
-		a26_area
-		a27_area
-		a36_area
 	}
 }
 swamplands_region = {
 	areas = {
-		a37_area
-		a38_area
+		a53_area
+		a54_area
+	}
+}
+plaksen_region = {
+	areas = {
+		a43_area
+		a44_area
 		a45_area
 		a46_area
+		a47_area
+		a48_area
+		a49_area
+		a50_area
+	}
+}
+auralight_region = {
+	areas = {
+		a51_area
+		a52_area
+		a55_area
+	}
+}
+merchants_woe_region = {
+	areas = {
+		a56_area
+	}
+}
+beyond_aurora_region = {
+	areas = {
+		a57_area
 	}
 }
 island_of_our_souls_region = {
 	areas = {
-		a19_area
-		a20_area
+		a60_area
+		a61_area
+		a62_area
 	}
 }
-west_coast_region = {
+islands_region = {
 	areas = {
-		aw1_area
-		aw2_area
+		a63_area
+		a64_area
 	}
 }
-open_ocean_region = {
+far_west_sedes_region = {
 	areas = {
-		aw3_area
-		aw4_area
-		aw5_area
+		a65_area
+		a66_area
+		a67_area
 	}
 }
-pustyn_coast_region = {
+madlands_region = {
 	areas = {
-		aw6_area
+		a68_area
+		a69_area
 	}
 }
-seven_lakes_region = {
+inner_sedes_region = {
 	areas = {
-		seven_lakes_area_area
+		a70_area
+		a73_area
 	}
 }
-soul_coast_region = {
+sliveria_region = {
 	areas = {
-		lost_coast_area
+		a71_area
+		a72_area
 	}
 }
-zemia_rivers_region = {
+dizhairakah_region = {
 	areas = {
-		zemia_rivers_area
+		a80_area
+		a81_area
+		a82_area
+	}
+}
+east_partisan_region = {
+	areas = {
+		a74_area
+		a78_area
+	}
+}
+foglands_region = {
+	areas = {
+		a75_area
+		a76_area
+	}
+}
+frosian_foglands_region = {
+	areas = {
+		a77_area
+		a79_area
+	}
+}
+xinmai_region = {
+	areas = {
+		a83_area
+		a84_area
+	}
+}
+cocchua_region = {
+	areas = {
+		a85_area
+		a86_area
+		a87_area
+	}
+}
+scarlands_region = {
+	areas = {
+		a88_area
+		a89_area
+	}
+}
+midlands_region = {
+	areas = {
+		a90_area
+		a91_area
+	}
+}
+frostheart_region = {
+	areas = {
+		a92_area
+	}
+}
+the_expanse_region = {
+	areas = {
+		a93_area
+	}
+}
+renkaldia_region = {
+	areas = {
+		a94_area
+		a96_area
+	}
+}
+ploskon_region = {
+	areas = {
+		a95_area
+		a97_area
+	}
+}
+wiltrel_region = {
+	areas = {
+		a98_area
+		a100_area
+		a101_area
+	}
+}
+svelch_region = {
+	areas = {
+		a99_area
+		a102_area
+		a103_area
+	}
+}
+thundergrowth_region = {
+	areas = {
+		a104_area
+	}
+}
+scyllia_region = {
+	areas = {
+		a116_area
+		a117_area
+	}
+}
+whemaydan_region = {
+	areas = {
+		a105_area
+		a106_area
+		a107_area
+		a108_area
+		a109_area
+	}
+}
+riptide_region = {
+	areas = {
+		a110_area
+		a111_area
+		a112_area
+	}
+}
+borne_region = {
+	areas = {
+		a113_area
+		a114_area
+		a115_area
+	}
+}
+???_region = {
+	areas = {
+		a58_area
+		a59_area
+	}
+}
+r47_region = {
+	areas = {
+		a119_area
+	}
+}
+r48_region = {
+	areas = {
+		a120_area
+	}
+}
+r49_region = {
+	areas = {
+		a121_area
+	}
+}
+r50_region = {
+	areas = {
+		a122_area
+	}
+}
+r51_region = {
+	areas = {
+		a123_area
+	}
+}
+r52_region = {
+	areas = {
+		a124_area
+	}
+}
+r53_region = {
+	areas = {
+		a125_area
+	}
+}
+r54_region = {
+	areas = {
+		a118_area
 	}
 }

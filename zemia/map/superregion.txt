@@ -1,58 +1,125 @@
+wasteland_superregion = {
+	wasteland_region
+}
 sylvan_isles_superregion = {
-	lost_forest_region
+	batsuri_region
 	greater_fei_region
 	east_bank_region
-	batsuri_region
+	lost_forest_region
 }
-s2_superregion = {
-	restrict_charter # Harder to get TC here.
-
-	r5_region
+puestyn_superregion = {
+	puestyn_proper_region
+	orclands_region
+	skdeti_region
 }
-far_zemia_superregion = {
-	restrict_charter # Harder to get TC here.
-
-	puestyn_region
-	east_orclands_region
-	west_orclands_region
-}
-highlands_superregion = {
+the_heights_superregion = {
+	great_eel_region
 	cradle_region
 	krengo_range_region
 }
-western_zemia_superregion = {
+west_zemia_superregion = {
 	grasslands_region
 	plaksen_region
+}
+central_zemia_superregion = {
+	seven_lakes_region
+	greater_deschov_region
+}
+east_zemia_superregion = {
+	truga_jungle_region
+	forlorn_lands_region
+}
+south_zemia_superregion = {
+	swamplands_region
 	auralight_region
 }
-eastern_zemia_superregion = {
-	midlands_region
-	forlorn_lands_region
-	swamplands_region
+beyond_aurora_superregion = {
+	merchants_woe_region
+	beyond_aurora_region
 }
-s7_superregion = {
-	truga_jungle_region
+s9_superregion = {
+	restrict_charter # Harder to get TC here.
+
+	???_region
 }
-deltan_sphere_superregion = {
+the_islands_superregion = {
 	restrict_charter # Harder to get TC here.
 
 	island_of_our_souls_region
+	islands_region
+}
+far_west_sedes_superregion = {
+	far_west_sedes_region
+	madlands_region
+}
+west_partisan_plains_superregion = {
+	inner_sedes_region
+	sliveria_region
+}
+east_partisan_plains_superregion = {
+	east_partisan_region
+	foglands_region
+}
+imperial_east_superregion = {
+	dizhairakah_region
+	xinmai_region
+}
+frostheart_superregion = {
+	frosian_foglands_region
+	midlands_region
+	frostheart_region
+	the_expanse_region
+}
+far_east_sedes_superregion = {
+	cocchua_region
+	scarlands_region
+}
+dom_proper_superregion = {
+	renkaldia_region
+	ploskon_region
+}
+east_dom_superregion = {
+	wiltrel_region
+	svelch_region
+}
+south_dom_superregion = {
+	scyllia_region
+	whemaydan_region
+}
+boran_superregion = {
+	thundergrowth_region
+	riptide_region
+	borne_region
 }
 zemian_ocean_superregion = {
-	restrict_charter # Harder to get TC here.
-
-	west_coast_region
-	open_ocean_region
-	pustyn_coast_region
+	r47_region
 }
 central_lakes_superregion = {
-	seven_lakes_region
+	r48_region
 }
 deltanese_sea_superregion = {
-	restrict_charter # Harder to get TC here.
-
-	soul_coast_region
+	r49_region
 }
 zemia_rivers_superregion = {
-	zemia_rivers_region
+	r50_region
+}
+west_sedes_ocean_superregion = {
+	r51_region
+}
+east_sedes_ocean_superregion = {
+	r52_region
+}
+dom_ocean_superregion = {
+	r53_region
+}
+south_dom_ocean_superregion = {
+	r54_region
+}
+_superregion = {
+}
+_superregion = {
+}
+_superregion = {
+}
+_superregion = {
 }

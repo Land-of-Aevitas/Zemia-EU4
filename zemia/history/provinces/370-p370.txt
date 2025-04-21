@@ -1,0 +1,20 @@
+# 370 - P370
+
+discovered_by = islander_tech_group
+discovered_by = western_tech_group
+discovered_by = eastern_tech_group
+discovered_by = monster_tech_group
+discovered_by = duegar_tech_group
+discovered_by = northern_tech_group
+discovered_by = delta_tech_group
+owner = Z17
+controller = Z17
+add_core = Z17
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+hre = no
+religion = meyopam_religion
+capital = "P370"
+trade_goods = grain

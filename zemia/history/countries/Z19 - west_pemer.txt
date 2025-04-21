@@ -1,7 +1,7 @@
 # West Pemer
 government = monarchy
 government_rank = 2
-capital = 163
+capital = 363
 add_government_reform = feudalism_reform
 technology_group = northern_tech_group
 primary_culture = nabodu_culture

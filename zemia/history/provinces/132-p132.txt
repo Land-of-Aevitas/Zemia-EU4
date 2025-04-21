@@ -1,0 +1,21 @@
+# 132 - P132
+
+discovered_by = islander_tech_group
+discovered_by = western_tech_group
+discovered_by = eastern_tech_group
+discovered_by = monster_tech_group
+discovered_by = duegar_tech_group
+discovered_by = northern_tech_group
+discovered_by = delta_tech_group
+owner = Z07
+controller = Z07
+add_core = Z07
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+hre = no
+culture = nabodu_culture
+religion = meyopam_religion
+capital = "P132"
+trade_goods = grain

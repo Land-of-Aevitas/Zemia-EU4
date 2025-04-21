@@ -1,7 +1,7 @@
 # Deschov
 government = monarchy
 government_rank = 2
-capital = 105
+capital = 175
 add_government_reform = feudalism_reform
 technology_group = eastern_tech_group
 primary_culture = nabodu_culture

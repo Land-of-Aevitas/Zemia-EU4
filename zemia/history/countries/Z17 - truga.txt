@@ -1,7 +1,7 @@
 # Truga
 government = monarchy
 government_rank = 2
-capital = 153
+capital = 365
 add_government_reform = feudalism_reform
 technology_group = eastern_tech_group
 primary_culture = truga_culture

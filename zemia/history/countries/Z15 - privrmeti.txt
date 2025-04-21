@@ -1,7 +1,7 @@
 # Privrmeti
 government = monarchy
 government_rank = 2
-capital = 212
+capital = 303
 add_government_reform = feudalism_reform
 technology_group = northern_tech_group
 primary_culture = napwmuri_culture

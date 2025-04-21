@@ -1,7 +1,7 @@
 # Crystal Duchy
 government = monarchy
 government_rank = 2
-capital = 115
+capital = 177
 add_government_reform = feudalism_reform
 technology_group = western_tech_group
 primary_culture = midborne_culture

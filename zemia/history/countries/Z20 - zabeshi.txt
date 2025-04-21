@@ -1,7 +1,7 @@
 # Zabeshi
 government = monarchy
 government_rank = 2
-capital = 135
+capital = 390
 add_government_reform = feudalism_reform
 technology_group = eastern_tech_group
 primary_culture = lowlands_culture

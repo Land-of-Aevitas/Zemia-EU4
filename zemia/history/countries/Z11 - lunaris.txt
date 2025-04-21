@@ -1,7 +1,7 @@
 # Lunaris
 government = monarchy
 government_rank = 2
-capital = 94
+capital = 296
 add_government_reform = feudalism_reform
 technology_group = western_tech_group
 primary_culture = luna_culture
