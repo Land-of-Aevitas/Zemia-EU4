@@ -578,14 +578,16 @@ borne_trade_company = {
 		name = borne_trade_company_1
 	}
 }
-???_trade_company = {
+unknown_trade_company = {
 	color = {245 110 43}
 	provinces = {
+		224	225	226	227	228
+		229	232
 	}
 	names = {
-		name = ???_trade_company_0
+		name = unknown_trade_company_0
 	}
 	names = {
-		name = ???_trade_company_1
+		name = unknown_trade_company_1
 	}
 }

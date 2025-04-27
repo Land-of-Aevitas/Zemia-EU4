@@ -1,6 +1,6 @@
 shtu_sabo_religion_group = {
 	can_form_personal_unions = yes
-	center_of_religion = 7
+	center_of_religion = 2
 	crusade_name = shtu_sabo_religion_group_crusade
 	ciwedeti_religion = {
 		color = {22 130 138}
@@ -26,7 +26,7 @@ shtu_sabo_religion_group = {
 }
 saratiami_religion_group = {
 	can_form_personal_unions = yes
-	center_of_religion = 111
+	center_of_religion = 3
 	crusade_name = saratiami_religion_group_crusade
 	meyopam_religion = {
 		color = {240 69 43}
@@ -46,7 +46,7 @@ saratiami_religion_group = {
 sedes_religion_group = {
 	defender_of_faith = yes
 	can_form_personal_unions = yes
-	center_of_religion = 64
+	center_of_religion = 4
 	crusade_name = sedes_religion_group_crusade
 	church_of_shemesh_religion = {
 		color = {218 240 238}
@@ -57,7 +57,7 @@ sedes_religion_group = {
 	}
 }
 monster_religion_group = {
-	center_of_religion = 221
+	center_of_religion = 5
 	crusade_name = monster_religion_group_crusade
 	monster_religion = {
 		color = {255 50 50}

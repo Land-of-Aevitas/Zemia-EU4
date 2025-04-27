@@ -115,11 +115,3 @@ dom_ocean_superregion = {
 south_dom_ocean_superregion = {
 	r54_region
 }
-_superregion = {
-}
-_superregion = {
-}
-_superregion = {
-}
-_superregion = {
-}
